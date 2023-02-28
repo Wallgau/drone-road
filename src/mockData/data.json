@@ -1,0 +1,3919 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.0061616537235, 40.4470579700628]
+      },
+      "properties": {
+        "OBJECTID": 1,
+        "GLOBAL_ID": "99F1123D-61D0-4825-B647-0A41201B7685",
+        "NAME": "PNC Park",
+        "LATITUDE": "40-26-49.38N",
+        "LONGITUDE": "080-00-22.17W",
+        "CITY": "Pittsburgh",
+        "STATE": "PA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.074393143542, 40.8135443847072]
+      },
+      "properties": {
+        "OBJECTID": 2,
+        "GLOBAL_ID": "394CEFD3-4F13-47AC-BFFD-F591CDC73D1B",
+        "NAME": "MetLife Stadium",
+        "LATITUDE": "40-48-48.73N",
+        "LONGITUDE": "074-04-27.81W",
+        "CITY": "East Rutherford",
+        "STATE": "NJ",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.994149000476, 39.7563564210346]
+      },
+      "properties": {
+        "OBJECTID": 3,
+        "GLOBAL_ID": "A8A10A7F-F070-4601-BA8B-F2EA238206B5",
+        "NAME": "Coors Field",
+        "LATITUDE": "39-45-22.86N",
+        "LONGITUDE": "104-59-38.90W",
+        "CITY": "Denver",
+        "STATE": "CO",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.882720439041, 33.8003131811133]
+      },
+      "properties": {
+        "OBJECTID": 4,
+        "GLOBAL_ID": "30829B54-B4CE-471F-B022-E06FDC34C686",
+        "NAME": "Angel Stadium of Anaheim",
+        "LATITUDE": "33-48-01.11N",
+        "LONGITUDE": "117-52-57.75W",
+        "CITY": "Anaheim",
+        "STATE": "CA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.5341945829906, 34.3619841355764]
+      },
+      "properties": {
+        "OBJECTID": 5,
+        "GLOBAL_ID": "80508D53-9617-4CD1-8A71-D4BD1543C985",
+        "NAME": "Vaught-Hemingway Stadium",
+        "LATITUDE": "34-21-43.12N",
+        "LONGITUDE": "089-32-03.08W",
+        "CITY": "Oxford",
+        "STATE": "MS",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.2570787371056, 36.5156376532656]
+      },
+      "properties": {
+        "OBJECTID": 6,
+        "GLOBAL_ID": "41667551-01FD-40B0-9BA2-0FFAA1651571",
+        "NAME": "Bristol Motor Speedway",
+        "LATITUDE": "36-30-56.27N",
+        "LONGITUDE": "082-15-25.47W",
+        "CITY": "Bristol",
+        "STATE": "TN",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.041714487015, 30.2158637379675]
+      },
+      "properties": {
+        "OBJECTID": 7,
+        "GLOBAL_ID": "4466D317-FBC1-4694-9769-9A4B542467A7",
+        "NAME": "Cajun Field",
+        "LATITUDE": "30-12-57.09N",
+        "LONGITUDE": "092-02-30.15W",
+        "CITY": "Lafayette",
+        "STATE": "LA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.1167084023824, 29.944616521541]
+      },
+      "properties": {
+        "OBJECTID": 8,
+        "GLOBAL_ID": "B926C06D-494C-428F-A439-735A6BD1D693",
+        "NAME": "Yulman Stadium",
+        "LATITUDE": "29-56-40.60N",
+        "LONGITUDE": "090-07-00.13W",
+        "CITY": "New Orleans",
+        "STATE": "LA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.4180615622557, 37.2199628705995]
+      },
+      "properties": {
+        "OBJECTID": 9,
+        "GLOBAL_ID": "E2FA2A35-1C05-4082-BBCF-2AB9ACC42D1E",
+        "NAME": "Lane Stadium",
+        "LATITUDE": "37-13-11.84N",
+        "LONGITUDE": "080-25-05.01W",
+        "CITY": "Blacksburg",
+        "STATE": "VA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.9471106055704, 38.9901772514157]
+      },
+      "properties": {
+        "OBJECTID": 10,
+        "GLOBAL_ID": "FEF4B16C-F74A-45C9-B34E-92E6B51697D2",
+        "NAME": "SECU Stadium",
+        "LATITUDE": "38-59-24.61N",
+        "LONGITUDE": "076-56-49.59W",
+        "CITY": "College Park",
+        "STATE": "MD",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.456171599356, 38.1626327511593]
+      },
+      "properties": {
+        "OBJECTID": 11,
+        "GLOBAL_ID": "98963F56-E106-411F-918D-4FB0CB94456B",
+        "NAME": "Sonoma Raceway",
+        "LATITUDE": "38-09-45.46N",
+        "LONGITUDE": "122-27-22.17W",
+        "CITY": "Sonoma",
+        "STATE": "CA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.758093250473, 36.8144272684896]
+      },
+      "properties": {
+        "OBJECTID": 12,
+        "GLOBAL_ID": "D0C392E7-8C41-4505-A38F-1255412F2D7C",
+        "NAME": "Bulldog Stadium",
+        "LATITUDE": "36-48-51.92N",
+        "LONGITUDE": "119-45-29.09W",
+        "CITY": "Fresno",
+        "STATE": "CA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.136293957892, 43.036241948591]
+      },
+      "properties": {
+        "OBJECTID": 13,
+        "GLOBAL_ID": "459ABC61-8208-46BD-9744-483C1D2A9ADF",
+        "NAME": "JMA Wireless Dome",
+        "LATITUDE": "43-02-10.44N",
+        "LONGITUDE": "076-08-10.65W",
+        "CITY": "Syracuse",
+        "STATE": "NY",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.4606591165258, 43.3628060701685]
+      },
+      "properties": {
+        "OBJECTID": 14,
+        "GLOBAL_ID": "AD568B27-C4BE-4289-81D3-2B24B73DEC80",
+        "NAME": "New Hampshire Motor Speedway",
+        "LATITUDE": "43-21-46.07N",
+        "LONGITUDE": "071-27-38.37W",
+        "CITY": "Loudon",
+        "STATE": "NH",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.7487490661113, 42.2658803499721]
+      },
+      "properties": {
+        "OBJECTID": 15,
+        "GLOBAL_ID": "981EE6A4-101B-40C8-B367-5103B01EE59E",
+        "NAME": "Michigan Stadium",
+        "LATITUDE": "42-15-57.14N",
+        "LONGITUDE": "083-44-55.48W",
+        "CITY": "Ann Arbor",
+        "STATE": "MI",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.2545531158223, 36.1305654275553]
+      },
+      "properties": {
+        "OBJECTID": 16,
+        "GLOBAL_ID": "89B468F5-58B3-4CDB-8AA4-FAEDC3DD8345",
+        "NAME": "BB&T Field",
+        "LATITUDE": "36-07-50.01N",
+        "LONGITUDE": "080-15-16.38W",
+        "CITY": "Winston-Salem",
+        "STATE": "NC",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.1592270861587, 33.2039335790562]
+      },
+      "properties": {
+        "OBJECTID": 17,
+        "GLOBAL_ID": "E0089F35-AE24-420A-902A-3ABB6E9C0E66",
+        "NAME": "Apogee Stadium",
+        "LATITUDE": "33-12-14.14N",
+        "LONGITUDE": "097-09-33.19W",
+        "CITY": "Denton",
+        "STATE": "TX",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.6010246297281, 42.2857580346393]
+      },
+      "properties": {
+        "OBJECTID": 18,
+        "GLOBAL_ID": "039D5552-DD9D-463B-905A-31BF19A1FD0C",
+        "NAME": "Waldo Stadium",
+        "LATITUDE": "42-17-08.70N",
+        "LONGITUDE": "085-36-03.67W",
+        "CITY": "Kalamazoo",
+        "STATE": "MI",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.4085610682331, 25.452162933046]
+      },
+      "properties": {
+        "OBJECTID": 19,
+        "GLOBAL_ID": "BFE9A98C-61C0-44EB-BCF7-73BC38A02222",
+        "NAME": "Homestead-Miami Speedway",
+        "LATITUDE": "25-27-07.77N",
+        "LONGITUDE": "080-24-30.81W",
+        "CITY": "Homestead",
+        "STATE": "FL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.5033034156296, 27.9759329556741]
+      },
+      "properties": {
+        "OBJECTID": 20,
+        "GLOBAL_ID": "1418EA7A-C0A2-4796-9B1D-C7010ED93A5E",
+        "NAME": "Raymond James Stadium",
+        "LATITUDE": "27-58-33.34N",
+        "LONGITUDE": "082-30-11.88W",
+        "CITY": "Tampa",
+        "STATE": "FL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.412675843227, 43.069935727308]
+      },
+      "properties": {
+        "OBJECTID": 21,
+        "GLOBAL_ID": "F7564EFF-35BA-4072-89C3-E9AF3DC4734E",
+        "NAME": "Camp Randall Stadium",
+        "LATITUDE": "43-04-11.74N",
+        "LONGITUDE": "089-24-45.61W",
+        "CITY": "Madison",
+        "STATE": "WI",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.1664712130545, 39.9061858339464]
+      },
+      "properties": {
+        "OBJECTID": 22,
+        "GLOBAL_ID": "05AE4D1F-6A26-4789-98AE-BE048399B624",
+        "NAME": "Citizens Bank Park",
+        "LATITUDE": "39-54-22.24N",
+        "LONGITUDE": "075-09-59.29W",
+        "CITY": "Philadelphia",
+        "STATE": "PA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.9518406633229, 31.799589288856]
+      },
+      "properties": {
+        "OBJECTID": 23,
+        "GLOBAL_ID": "A15E3F30-E82F-4704-A796-8A5CF9673082",
+        "NAME": "Veterans Memorial Stadium",
+        "LATITUDE": "31-47-58.50N",
+        "LONGITUDE": "085-57-06.61W",
+        "CITY": "Troy",
+        "STATE": "AL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.020157338036, 39.7439175285183]
+      },
+      "properties": {
+        "OBJECTID": 24,
+        "GLOBAL_ID": "F8A2BABF-C24F-4704-BFB3-572DF5216E14",
+        "NAME": "Empower Field at Mile High",
+        "LATITUDE": "39-44-38.08N",
+        "LONGITUDE": "105-01-12.53W",
+        "CITY": "Denver",
+        "STATE": "CO",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1664395135907, 42.3351253322005]
+      },
+      "properties": {
+        "OBJECTID": 25,
+        "GLOBAL_ID": "50B8461F-A859-493C-924D-A0018FF2EB12",
+        "NAME": "Alumni Stadium",
+        "LATITUDE": "42-20-06.42N",
+        "LONGITUDE": "071-09-59.18W",
+        "CITY": "Chestnut Hill",
+        "STATE": "MA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.1635412358844, 39.7600658874867]
+      },
+      "properties": {
+        "OBJECTID": 26,
+        "GLOBAL_ID": "D5383551-A180-43AC-AE7E-85C06C5FC729",
+        "NAME": "Lucas Oil Stadium",
+        "LATITUDE": "39-45-36.21N",
+        "LONGITUDE": "086-09-48.73W",
+        "CITY": "Indianapolis",
+        "STATE": "IN",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.6556529864111, 41.9480661971581]
+      },
+      "properties": {
+        "OBJECTID": 27,
+        "GLOBAL_ID": "ACD0B252-EB3D-4113-9452-8F38930894A3",
+        "NAME": "Wrigley Field",
+        "LATITUDE": "41-56-53.01N",
+        "LONGITUDE": "087-39-20.33W",
+        "CITY": "Chicago",
+        "STATE": "IL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.5511151924718, 41.6586575895353]
+      },
+      "properties": {
+        "OBJECTID": 28,
+        "GLOBAL_ID": "5B9CAA1D-8568-47FB-BA69-CD266FB3EA22",
+        "NAME": "Kinnick Stadium",
+        "LATITUDE": "41-39-31.14N",
+        "LONGITUDE": "091-33-03.99W",
+        "CITY": "Iowa City",
+        "STATE": "IA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.5504634074436, 33.2076450891196]
+      },
+      "properties": {
+        "OBJECTID": 29,
+        "GLOBAL_ID": "C7AB2D68-7D50-4FE0-A5E6-E54A9CD83E51",
+        "NAME": "Bryant-Denny Stadium",
+        "LATITUDE": "33-12-27.50N",
+        "LONGITUDE": "087-33-01.65W",
+        "CITY": "Tuscaloosa",
+        "STATE": "AL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.5083927213319, 41.0726080207159]
+      },
+      "properties": {
+        "OBJECTID": 30,
+        "GLOBAL_ID": "67812E40-9635-4DDF-8B44-7DA57B5AB622",
+        "NAME": "InfoCision Stadium/Summa Field",
+        "LATITUDE": "41-04-21.36N",
+        "LONGITUDE": "081-30-30.20W",
+        "CITY": "Akron",
+        "STATE": "OH",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.3492069963204, 29.7220051899286]
+      },
+      "properties": {
+        "OBJECTID": 31,
+        "GLOBAL_ID": "6110219F-5FBB-49B0-96AE-8BCC31E526C0",
+        "NAME": "TDECU Stadium",
+        "LATITUDE": "29-43-19.20N",
+        "LONGITUDE": "095-20-57.12W",
+        "CITY": "Houston",
+        "STATE": "TX",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.9184248487065, 40.4344354165947]
+      },
+      "properties": {
+        "OBJECTID": 32,
+        "GLOBAL_ID": "959870FA-BF2F-4AB6-B729-47F1AABFEC30",
+        "NAME": "Ross-Ade Stadium",
+        "LATITUDE": "40-26-03.94N",
+        "LONGITUDE": "086-55-06.31W",
+        "CITY": "West Lafayette",
+        "STATE": "IN",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.093035375372, 32.7478029404142]
+      },
+      "properties": {
+        "OBJECTID": 33,
+        "GLOBAL_ID": "E98AA425-2DDB-4BCA-AF0B-700F9272757E",
+        "NAME": "AT&T Stadium",
+        "LATITUDE": "32-44-52.07N",
+        "LONGITUDE": "097-05-34.90W",
+        "CITY": "Arlington",
+        "STATE": "TX",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.741098726792, 32.2796246495322]
+      },
+      "properties": {
+        "OBJECTID": 34,
+        "GLOBAL_ID": "E1A09C1B-7E65-4776-9938-0C9F60A45F27",
+        "NAME": "Aggie Memorial Stadium",
+        "LATITUDE": "32-16-46.63N",
+        "LONGITUDE": "106-44-27.92W",
+        "CITY": "Las Cruces",
+        "STATE": "NM",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.01671180071, 36.0862552808967]
+      },
+      "properties": {
+        "OBJECTID": 35,
+        "GLOBAL_ID": "2EAB91A1-76F3-48C9-AE8D-E4FD0956BF40",
+        "NAME": "Sam Boyd Stadium",
+        "LATITUDE": "36-05-10.50N",
+        "LONGITUDE": "115-01-00.12W",
+        "CITY": "Las Vegas",
+        "STATE": "NV",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.8644633527773, 38.9076744608614]
+      },
+      "properties": {
+        "OBJECTID": 36,
+        "GLOBAL_ID": "B98F0491-FF91-425D-8AEA-E49A4CD84D07",
+        "NAME": "FedEx Field",
+        "LATITUDE": "38-54-27.60N",
+        "LONGITUDE": "076-51-52.06W",
+        "CITY": "Landover",
+        "STATE": "MD",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.4848743345516, 42.7281776145179]
+      },
+      "properties": {
+        "OBJECTID": 37,
+        "GLOBAL_ID": "A3F8ADB4-B176-4C0B-B00D-7CFC01E95546",
+        "NAME": "Spartan Stadium (Michigan)",
+        "LATITUDE": "42-43-41.41N",
+        "LONGITUDE": "084-29-05.53W",
+        "CITY": "East Lansing",
+        "STATE": "MI",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.628279459898, 35.0669639762792]
+      },
+      "properties": {
+        "OBJECTID": 38,
+        "GLOBAL_ID": "942C1597-475F-4F69-9F39-0B402356EB3C",
+        "NAME": "Branch Field at University Stadium",
+        "LATITUDE": "35-04-01.05N",
+        "LONGITUDE": "106-37-41.77W",
+        "CITY": "Albuquerque",
+        "STATE": "NM",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.507898644682, 31.7733440234975]
+      },
+      "properties": {
+        "OBJECTID": 39,
+        "GLOBAL_ID": "8A8F5ED5-0047-46A1-A436-23C51AC387E5",
+        "NAME": "Sun Bowl Stadium",
+        "LATITUDE": "31-46-24.02N",
+        "LONGITUDE": "106-30-28.40W",
+        "CITY": "El Paso",
+        "STATE": "TX",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.195871342187, 43.6028337325446]
+      },
+      "properties": {
+        "OBJECTID": 40,
+        "GLOBAL_ID": "9B338B88-6867-4F96-BD90-27843C7362C8",
+        "NAME": "Albertsons Stadium",
+        "LATITUDE": "43-36-10.18N",
+        "LONGITUDE": "116-11-45.09W",
+        "CITY": "Boise",
+        "STATE": "ID",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.8517530233036, 36.6341683261468]
+      },
+      "properties": {
+        "OBJECTID": 41,
+        "GLOBAL_ID": "5CA833FA-B9E5-46AA-A3D8-9086D1D0F48F",
+        "NAME": "Martinsville Speedway",
+        "LATITUDE": "36-38-02.98N",
+        "LONGITUDE": "079-51-06.30W",
+        "CITY": "Ridgeway",
+        "STATE": "VA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.2777771992525, 44.9817579930592]
+      },
+      "properties": {
+        "OBJECTID": 42,
+        "GLOBAL_ID": "2441C7C2-A57E-49B0-91B2-B29411265C08",
+        "NAME": "Target Field",
+        "LATITUDE": "44-58-54.30N",
+        "LONGITUDE": "093-16-39.97W",
+        "CITY": "Minneapolis",
+        "STATE": "MN",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.955081025579, 39.6502161518853]
+      },
+      "properties": {
+        "OBJECTID": 43,
+        "GLOBAL_ID": "9DFF855E-0A82-4FBE-A938-54C6C379729F",
+        "NAME": "Mountaineer Field at Milan Puskar Stadium",
+        "LATITUDE": "39-39-00.75N",
+        "LONGITUDE": "079-57-18.28W",
+        "CITY": "Morgantown",
+        "STATE": "WV",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.2388554767178, 25.9579408430408]
+      },
+      "properties": {
+        "OBJECTID": 44,
+        "GLOBAL_ID": "64370F67-5C79-4457-B622-79806E0F21E7",
+        "NAME": "Hard Rock Stadium",
+        "LATITUDE": "25-57-28.57N",
+        "LONGITUDE": "080-14-19.87W",
+        "CITY": "Miami Gardens",
+        "STATE": "FL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.200632623688, 37.7516132912317]
+      },
+      "properties": {
+        "OBJECTID": 45,
+        "GLOBAL_ID": "8838D2A7-493E-4E5F-A3A8-8601B116F65B",
+        "NAME": "RingCentral Coliseum",
+        "LATITUDE": "37-45-05.79N",
+        "LONGITUDE": "122-12-02.23W",
+        "CITY": "Oakland",
+        "STATE": "CA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.6215605219527, 39.283957878533]
+      },
+      "properties": {
+        "OBJECTID": 46,
+        "GLOBAL_ID": "CADFC1BB-667C-4157-BADB-21BA43488F97",
+        "NAME": "Oriole Park at Camden Yards",
+        "LATITUDE": "39-17-02.22N",
+        "LONGITUDE": "076-37-17.61W",
+        "CITY": "Baltimore",
+        "STATE": "MD",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.4109264544849, 29.6849329582452]
+      },
+      "properties": {
+        "OBJECTID": 47,
+        "GLOBAL_ID": "153ACF16-2333-41AD-94BA-E45398076B25",
+        "NAME": "NRG Stadium",
+        "LATITUDE": "29-41-05.74N",
+        "LONGITUDE": "095-24-39.31W",
+        "CITY": "Houston",
+        "STATE": "TX",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0977089356759, 42.3462281135114]
+      },
+      "properties": {
+        "OBJECTID": 48,
+        "GLOBAL_ID": "83C31208-8589-47A9-A398-722FB798BCCA",
+        "NAME": "Fenway Park",
+        "LATITUDE": "42-20-46.39N",
+        "LONGITUDE": "071-05-51.75W",
+        "CITY": "Boston",
+        "STATE": "MA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.0622228315355, 44.5012860387878]
+      },
+      "properties": {
+        "OBJECTID": 49,
+        "GLOBAL_ID": "3F7AAC2B-F601-4820-B155-3055B219665C",
+        "NAME": "Lambeau Field",
+        "LATITUDE": "44-30-04.60N",
+        "LONGITUDE": "088-03-43.98W",
+        "CITY": "Green Bay",
+        "STATE": "WI",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.0592586139953, 41.4742855383378]
+      },
+      "properties": {
+        "OBJECTID": 50,
+        "GLOBAL_ID": "23922AA1-8E2A-4EA8-99E5-FF85DAD47790",
+        "NAME": "Chicagoland Speedway",
+        "LATITUDE": "41-28-27.40N",
+        "LONGITUDE": "088-03-33.31W",
+        "CITY": "Joliet",
+        "STATE": "IL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.160472129015, 46.7318255547229]
+      },
+      "properties": {
+        "OBJECTID": 51,
+        "GLOBAL_ID": "323B16CD-2059-431D-911E-4D9B8073A0CE",
+        "NAME": "Martin Stadium",
+        "LATITUDE": "46-43-54.55N",
+        "LONGITUDE": "117-09-37.65W",
+        "CITY": "Pullman",
+        "STATE": "WA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.068517031373, 44.0582720058693]
+      },
+      "properties": {
+        "OBJECTID": 52,
+        "GLOBAL_ID": "9F1A0456-C733-4B52-A9FF-CA5AA095D7F6",
+        "NAME": "Autzen Stadium",
+        "LATITUDE": "44-03-29.76N",
+        "LONGITUDE": "123-04-06.61W",
+        "CITY": "Eugene",
+        "STATE": "OR",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.6227021889372, 39.2779078772787]
+      },
+      "properties": {
+        "OBJECTID": 53,
+        "GLOBAL_ID": "67516F22-D531-439E-8399-8D93F0E304AD",
+        "NAME": "M&T Bank Stadium",
+        "LATITUDE": "39-16-40.44N",
+        "LONGITUDE": "076-37-21.72W",
+        "CITY": "Baltimore",
+        "STATE": "MD",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.568279880624, 41.3117065876454]
+      },
+      "properties": {
+        "OBJECTID": 54,
+        "GLOBAL_ID": "6BB176CA-EE62-4F68-9D6E-D6D7AFC7B3AF",
+        "NAME": "War Memorial Stadium (Wyoming)",
+        "LATITUDE": "41-18-42.12N",
+        "LONGITUDE": "105-34-05.77W",
+        "CITY": "Laramie",
+        "STATE": "WY",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.5938468672296, 39.2020068816609]
+      },
+      "properties": {
+        "OBJECTID": 55,
+        "GLOBAL_ID": "5CA52C19-3541-4ABC-905E-7D0D500FA21F",
+        "NAME": "Bill Snyder Family Stadium",
+        "LATITUDE": "39-12-07.20N",
+        "LONGITUDE": "096-35-37.82W",
+        "CITY": "Manhattan",
+        "STATE": "KS",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.9060306917233, 34.2953567129984]
+      },
+      "properties": {
+        "OBJECTID": 56,
+        "GLOBAL_ID": "7D30C29A-6DED-4F36-8038-321CF182FEE1",
+        "NAME": "Darlington Raceway",
+        "LATITUDE": "34-17-43.26N",
+        "LONGITUDE": "079-54-21.70W",
+        "CITY": "Darlington",
+        "STATE": "SC",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.9249819725583, 35.9549846928838]
+      },
+      "properties": {
+        "OBJECTID": 57,
+        "GLOBAL_ID": "6BA2B463-29A6-4986-BCA6-BE2127BDEDE2",
+        "NAME": "Neyland Stadium",
+        "LATITUDE": "35-57-17.92N",
+        "LONGITUDE": "083-55-29.92W",
+        "CITY": "Knoxville",
+        "STATE": "TN",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.2574133043027, 44.9735413262791]
+      },
+      "properties": {
+        "OBJECTID": 58,
+        "GLOBAL_ID": "0F2A926B-0A27-4381-A60D-C03DAAD768C7",
+        "NAME": "US Bank Stadium",
+        "LATITUDE": "44-58-24.72N",
+        "LONGITUDE": "093-15-26.66W",
+        "CITY": "Minneapolis",
+        "STATE": "MN",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.682211533613, 35.3514152467423]
+      },
+      "properties": {
+        "OBJECTID": 59,
+        "GLOBAL_ID": "933628C4-9045-4CE5-9A83-667428F597CB",
+        "NAME": "Charlotte Motor Speedway",
+        "LATITUDE": "35-21-05.07N",
+        "LONGITUDE": "080-40-55.95W",
+        "CITY": "Concord",
+        "STATE": "NC",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.7325409572072, 30.2836607751195]
+      },
+      "properties": {
+        "OBJECTID": 60,
+        "GLOBAL_ID": "C83DB815-C04D-4E36-BE01-38FE03FF06E7",
+        "NAME": "Darrell K. Royal-Texas Memorial Stadium",
+        "LATITUDE": "30-17-01.16N",
+        "LONGITUDE": "097-43-57.12W",
+        "CITY": "Austin",
+        "STATE": "TX",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.15705078877, 32.7075742040925]
+      },
+      "properties": {
+        "OBJECTID": 61,
+        "GLOBAL_ID": "1336CB93-E618-4BCE-B22A-73AB285A3F4B",
+        "NAME": "PETCO Park",
+        "LATITUDE": "32-42-27.25N",
+        "LONGITUDE": "117-09-25.34W",
+        "CITY": "San Diego",
+        "STATE": "CA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.848820060057, 40.7599643734054]
+      },
+      "properties": {
+        "OBJECTID": 62,
+        "GLOBAL_ID": "C635F526-A097-4080-AF1E-D4D0FA8793B5",
+        "NAME": "Rice-Eccles Stadium",
+        "LATITUDE": "40-45-35.85N",
+        "LONGITUDE": "111-50-55.71W",
+        "CITY": "Salt Lake City",
+        "STATE": "UT",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.3681437848822, 35.851145680935]
+      },
+      "properties": {
+        "OBJECTID": 63,
+        "GLOBAL_ID": "1AC181C2-4DCD-420A-90A1-485030EDD52B",
+        "NAME": "Johnny \"Red\" Floyd Stadium",
+        "LATITUDE": "35-51-04.10N",
+        "LONGITUDE": "086-22-05.30W",
+        "CITY": "Murfreesboro",
+        "STATE": "TN",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.8431815814328, 34.6787344683808]
+      },
+      "properties": {
+        "OBJECTID": 64,
+        "GLOBAL_ID": "E29B9D3F-BCF4-485E-8DBD-2DA8C92E16C1",
+        "NAME": "Memorial Stadium (South Carolina)",
+        "LATITUDE": "34-40-43.42N",
+        "LONGITUDE": "082-50-35.44W",
+        "CITY": "Clemson",
+        "STATE": "SC",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.348608985271, 29.649913913475]
+      },
+      "properties": {
+        "OBJECTID": 65,
+        "GLOBAL_ID": "3388A2F7-55EC-461D-96E2-6E18D3E93DDC",
+        "NAME": "Ben Hill Griffin Stadium",
+        "LATITUDE": "29-38-59.67N",
+        "LONGITUDE": "082-20-54.98W",
+        "CITY": "Gainesville",
+        "STATE": "FL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-157.929983842909, 21.3728228643652]
+      },
+      "properties": {
+        "OBJECTID": 66,
+        "GLOBAL_ID": "9B5A5C35-0610-4025-8A8A-8346D98C2E01",
+        "NAME": "Aloha Stadium",
+        "LATITUDE": "21-22-22.15N",
+        "LONGITUDE": "157-55-47.89W",
+        "CITY": "Honolulu",
+        "STATE": "HI",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.2408408644446, 42.0646747343275]
+      },
+      "properties": {
+        "OBJECTID": 67,
+        "GLOBAL_ID": "2A0E6E94-C576-4A8F-923C-7BBE17BFF1DB",
+        "NAME": "Michigan International Speedway",
+        "LATITUDE": "42-03-52.80N",
+        "LONGITUDE": "084-14-27.01W",
+        "CITY": "Brooklyn",
+        "STATE": "MI",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.1156825350377, 31.5581832685227]
+      },
+      "properties": {
+        "OBJECTID": 68,
+        "GLOBAL_ID": "4045B1B5-DECD-4F3A-89B6-2FE9362A3F59",
+        "NAME": "McLane Stadium",
+        "LATITUDE": "31-33-29.44N",
+        "LONGITUDE": "097-06-56.43W",
+        "CITY": "Waco",
+        "STATE": "TX",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9641292546979, 41.3875472779935]
+      },
+      "properties": {
+        "OBJECTID": 69,
+        "GLOBAL_ID": "C1C05227-02BB-41EA-B02D-41F7898C138D",
+        "NAME": "Michie Stadium",
+        "LATITUDE": "41-23-15.14N",
+        "LONGITUDE": "073-57-50.86W",
+        "CITY": "West Point",
+        "STATE": "NY",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.7827769683188, 32.8377446377665]
+      },
+      "properties": {
+        "OBJECTID": 70,
+        "GLOBAL_ID": "E40D87C9-1890-4278-8501-3B8D9F3C5948",
+        "NAME": "Gerald J. Ford Stadium",
+        "LATITUDE": "32-50-15.86N",
+        "LONGITUDE": "096-46-57.97W",
+        "CITY": "Dallas",
+        "STATE": "TX",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.0664546745262, 33.5692646660443]
+      },
+      "properties": {
+        "OBJECTID": 71,
+        "GLOBAL_ID": "FE789F06-888C-4BB3-8DAE-2E68831A340A",
+        "NAME": "Talladega Superspeedway",
+        "LATITUDE": "33-34-09.33N",
+        "LONGITUDE": "086-03-59.22W",
+        "CITY": "Talladega",
+        "STATE": "AL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.3733900301695, 33.9498092928254]
+      },
+      "properties": {
+        "OBJECTID": 72,
+        "GLOBAL_ID": "937B1E1E-CCA6-49E8-993F-37AA08C336F2",
+        "NAME": "Sanford Stadium",
+        "LATITUDE": "33-56-59.29N",
+        "LONGITUDE": "083-22-24.19W",
+        "CITY": "Athens",
+        "STATE": "GA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.9711837480661, 43.0281274718615]
+      },
+      "properties": {
+        "OBJECTID": 73,
+        "GLOBAL_ID": "65F0F689-EF04-4D22-BDC9-F425AD5ABC9D",
+        "NAME": "American Family Field",
+        "LATITUDE": "43-01-41.23N",
+        "LONGITUDE": "087-58-16.24W",
+        "CITY": "Milwaukee",
+        "STATE": "WI",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.7869586756194, 42.7737612334058]
+      },
+      "properties": {
+        "OBJECTID": 74,
+        "GLOBAL_ID": "F7859AFE-C202-453C-A099-52A547EAD4B4",
+        "NAME": "Highmark Stadium",
+        "LATITUDE": "42-46-25.51N",
+        "LONGITUDE": "078-47-13.04W",
+        "CITY": "Orchard Park",
+        "STATE": "NY",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.266910204209, 40.0094758805776]
+      },
+      "properties": {
+        "OBJECTID": 75,
+        "GLOBAL_ID": "6FF2C133-48B4-4465-8505-CDCD42BD5C4A",
+        "NAME": "Folsom Field",
+        "LATITUDE": "40-00-34.09N",
+        "LONGITUDE": "105-16-00.84W",
+        "CITY": "Boulder",
+        "STATE": "CO",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.0157422126627, 40.4467357475883]
+      },
+      "properties": {
+        "OBJECTID": 76,
+        "GLOBAL_ID": "D3A0EF6E-7337-4145-9E50-8E0EEDBE3D48",
+        "NAME": "Acrisure Stadium",
+        "LATITUDE": "40-26-48.22N",
+        "LONGITUDE": "080-00-56.66W",
+        "CITY": "Pittsburgh",
+        "STATE": "PA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3043929122769, 30.4381751489931]
+      },
+      "properties": {
+        "OBJECTID": 77,
+        "GLOBAL_ID": "DF6DE397-6C25-4DDF-9977-8E580F180FF5",
+        "NAME": "Bobby Bowden Field at Doak Campbell Stadium",
+        "LATITUDE": "30-26-17.41N",
+        "LONGITUDE": "084-18-15.80W",
+        "CITY": "Tallahassee",
+        "STATE": "FL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.868301969453, 37.3197243895987]
+      },
+      "properties": {
+        "OBJECTID": 78,
+        "GLOBAL_ID": "2EEEEA62-E9FD-4F44-9036-9E3F1916932F",
+        "NAME": "CEFCU Stadium",
+        "LATITUDE": "37-19-10.99N",
+        "LONGITUDE": "121-52-05.84W",
+        "CITY": "San Jose",
+        "STATE": "CA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.066811017037, 33.4452745610159]
+      },
+      "properties": {
+        "OBJECTID": 79,
+        "GLOBAL_ID": "A42D8C4F-0BA5-4855-A33A-8DB539DF4537",
+        "NAME": "Chase Field",
+        "LATITUDE": "33-26-42.97N",
+        "LONGITUDE": "112-04-00.48W",
+        "CITY": "Phoenix",
+        "STATE": "AZ",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.4093264554665, 29.7163329647334]
+      },
+      "properties": {
+        "OBJECTID": 80,
+        "GLOBAL_ID": "D037C1D1-81DB-4501-97B5-3728163902C0",
+        "NAME": "Rice Stadium",
+        "LATITUDE": "29-42-58.78N",
+        "LONGITUDE": "095-24-33.55W",
+        "CITY": "Houston",
+        "STATE": "TX",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.6473823682147, 42.2559275753725]
+      },
+      "properties": {
+        "OBJECTID": 81,
+        "GLOBAL_ID": "F3CF86AC-2345-4AD4-944A-E03E591BE86F",
+        "NAME": "Rynearson Stadium",
+        "LATITUDE": "42-15-21.31N",
+        "LONGITUDE": "083-38-50.56W",
+        "CITY": "Ypsilanti",
+        "STATE": "MI",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.9774141977466, 35.1210953784023]
+      },
+      "properties": {
+        "OBJECTID": 82,
+        "GLOBAL_ID": "08186652-A40F-408F-A239-B0378D2FD428",
+        "NAME": "Simmons Bank Liberty Stadium",
+        "LATITUDE": "35-07-15.92N",
+        "LONGITUDE": "089-58-38.67W",
+        "CITY": "Memphis",
+        "STATE": "TN",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.0659951653058, 32.5309253279763]
+      },
+      "properties": {
+        "OBJECTID": 83,
+        "GLOBAL_ID": "B322CB57-2928-40D2-B061-DC8008A7400D",
+        "NAME": "Malone Stadium",
+        "LATITUDE": "32-31-51.31N",
+        "LONGITUDE": "092-03-57.56W",
+        "CITY": "Monroe",
+        "STATE": "LA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.8426548916096, 33.5114951801799]
+      },
+      "properties": {
+        "OBJECTID": 84,
+        "GLOBAL_ID": "9AA0001C-017D-46A6-B447-D202291D31B0",
+        "NAME": "Legion Field",
+        "LATITUDE": "33-30-41.36N",
+        "LONGITUDE": "086-50-33.54W",
+        "CITY": "Birmingham",
+        "STATE": "AL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.5064629154771, 39.097215843524]
+      },
+      "properties": {
+        "OBJECTID": 85,
+        "GLOBAL_ID": "801D132A-84A3-4B21-A941-4F24CA9E999B",
+        "NAME": "Great American Ball Park",
+        "LATITUDE": "39-05-49.95N",
+        "LONGITUDE": "084-30-23.25W",
+        "CITY": "Cincinnati",
+        "STATE": "OH",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-89.3312332507171, 31.3289751799609]
+      },
+      "properties": {
+        "OBJECTID": 86,
+        "GLOBAL_ID": "47F2F46A-DE0D-4ED5-91BD-C7A5FB5589AC",
+        "NAME": "M.M. Roberts Stadium",
+        "LATITUDE": "31-19-44.29N",
+        "LONGITUDE": "089-19-52.42W",
+        "CITY": "Hattiesburg",
+        "STATE": "MS",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.5131908406677, 41.0556860463085]
+      },
+      "properties": {
+        "OBJECTID": 87,
+        "GLOBAL_ID": "0746EE43-7E6C-4B27-8354-ADE475868390",
+        "NAME": "Pocono Raceway",
+        "LATITUDE": "41-03-20.44N",
+        "LONGITUDE": "075-30-47.48W",
+        "CITY": "Long Pond",
+        "STATE": "PA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.1930645199916, 38.6225849188912]
+      },
+      "properties": {
+        "OBJECTID": 88,
+        "GLOBAL_ID": "C3DB3E34-8396-452D-A432-A19F68985AEE",
+        "NAME": "Busch Stadium",
+        "LATITUDE": "38-37-21.28N",
+        "LONGITUDE": "090-11-35.01W",
+        "CITY": "Saint Louis",
+        "STATE": "MO",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.8309575034512, 39.1157958604977]
+      },
+      "properties": {
+        "OBJECTID": 89,
+        "GLOBAL_ID": "3E082A42-251C-43FA-8EC4-EAC3E0A8D5B7",
+        "NAME": "Kansas Speedway",
+        "LATITUDE": "39-06-56.84N",
+        "LONGITUDE": "094-49-51.42W",
+        "CITY": "Kansas City",
+        "STATE": "KS",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.4804351814322, 39.0516458699324]
+      },
+      "properties": {
+        "OBJECTID": 90,
+        "GLOBAL_ID": "BD32E7D9-7F32-4B3A-B450-35C14104A0C2",
+        "NAME": "Kauffman Stadium",
+        "LATITUDE": "39-03-05.90N",
+        "LONGITUDE": "094-28-49.54W",
+        "CITY": "Kansas City",
+        "STATE": "MO",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.4840157371353, 39.0489208692645]
+      },
+      "properties": {
+        "OBJECTID": 91,
+        "GLOBAL_ID": "18620993-97E9-49AA-AD35-C4A9C0940FC4",
+        "NAME": "Arrowhead Stadium",
+        "LATITUDE": "39-02-56.09N",
+        "LONGITUDE": "094-29-02.43W",
+        "CITY": "Kansas City",
+        "STATE": "MO",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.1674295470307, 39.9007858328384]
+      },
+      "properties": {
+        "OBJECTID": 92,
+        "GLOBAL_ID": "EA212E33-9467-4392-9095-CEE03AA93F33",
+        "NAME": "Lincoln Financial Field",
+        "LATITUDE": "39-54-02.80N",
+        "LONGITUDE": "075-10-02.74W",
+        "CITY": "Philadelphia",
+        "STATE": "PA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 93,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-98.4789883248611, 29.4169050225705]
+      },
+      "properties": {
+        "OBJECTID": 93,
+        "GLOBAL_ID": "8DE854BF-EA31-4EA9-AB80-277B72EEDFF4",
+        "NAME": "Alamodome",
+        "LATITUDE": "29-25-00.84N",
+        "LONGITUDE": "098-28-44.33W",
+        "CITY": "San Antonio",
+        "STATE": "TX",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 94,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.970013105184, 37.4030049454863]
+      },
+      "properties": {
+        "OBJECTID": 94,
+        "GLOBAL_ID": "5E8AC746-18BF-4365-B995-C4FDB798C5E3",
+        "NAME": "Levi's Stadium",
+        "LATITUDE": "37-24-10.80N",
+        "LONGITUDE": "121-58-12.00W",
+        "CITY": "Santa Clara",
+        "STATE": "CA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 95,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.0456433024524, 42.3400553985813]
+      },
+      "properties": {
+        "OBJECTID": 95,
+        "GLOBAL_ID": "3C02D74A-CFD6-4F74-B826-4C3E517EDCD2",
+        "NAME": "Ford Field",
+        "LATITUDE": "42-20-24.17N",
+        "LONGITUDE": "083-02-44.30W",
+        "CITY": "Detroit",
+        "STATE": "MI",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 96,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.161121470578, 37.4345049345015]
+      },
+      "properties": {
+        "OBJECTID": 96,
+        "GLOBAL_ID": "11304B04-D8EC-415B-8037-22BCE76569FD",
+        "NAME": "Stanford Stadium",
+        "LATITUDE": "37-26-04.20N",
+        "LONGITUDE": "122-09-39.99W",
+        "CITY": "Stanford",
+        "STATE": "CA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 97,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.331576001856, 47.5951750600685]
+      },
+      "properties": {
+        "OBJECTID": 97,
+        "GLOBAL_ID": "A6F44A6F-C603-42B7-9D84-1CAC9600F859",
+        "NAME": "Lumen Field",
+        "LATITUDE": "47-35-42.61N",
+        "LONGITUDE": "122-19-53.62W",
+        "CITY": "Seattle",
+        "STATE": "WA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 98,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.6672061043827, 35.8489343776593]
+      },
+      "properties": {
+        "OBJECTID": 98,
+        "GLOBAL_ID": "2633509B-C726-424A-A1E6-518704B1F3E0",
+        "NAME": "Centennial Bank Stadium",
+        "LATITUDE": "35-50-56.14N",
+        "LONGITUDE": "090-40-01.92W",
+        "CITY": "Jonesboro",
+        "STATE": "AR",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.2195304663556, 25.7780935758826]
+      },
+      "properties": {
+        "OBJECTID": 99,
+        "GLOBAL_ID": "2A79083C-E4DD-412E-A6A8-CEA22B568452",
+        "NAME": "loanDepot Park",
+        "LATITUDE": "25-46-41.12N",
+        "LONGITUDE": "080-13-10.30W",
+        "CITY": "Miami",
+        "STATE": "FL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.281422714387, 44.5595136808329]
+      },
+      "properties": {
+        "OBJECTID": 100,
+        "GLOBAL_ID": "A8F5A051-DEE8-48EA-815B-4235CF2B4873",
+        "NAME": "Reser Stadium",
+        "LATITUDE": "44-33-34.23N",
+        "LONGITUDE": "123-16-53.07W",
+        "CITY": "Corvallis",
+        "STATE": "OR",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.5305101740812, 39.1899023433942]
+      },
+      "properties": {
+        "OBJECTID": 101,
+        "GLOBAL_ID": "7F24740C-1CFE-4A52-BF2B-87ED013C3E6F",
+        "NAME": "Dover Motor Speedway",
+        "LATITUDE": "39-11-23.62N",
+        "LONGITUDE": "075-31-49.83W",
+        "CITY": "Dover",
+        "STATE": "DE",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.3331956982118, 38.9358570819452]
+      },
+      "properties": {
+        "OBJECTID": 102,
+        "GLOBAL_ID": "7FB96937-D770-49F7-AE64-25E05E3FED6D",
+        "NAME": "Faurot Field at Memorial Stadium",
+        "LATITUDE": "38-56-09.06N",
+        "LONGITUDE": "092-19-59.48W",
+        "CITY": "Columbia",
+        "STATE": "MO",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.5161823659783, 39.1312158495256]
+      },
+      "properties": {
+        "OBJECTID": 103,
+        "GLOBAL_ID": "F78A7D55-B476-41AA-831C-BB5C1D2A09DF",
+        "NAME": "Nippert Stadium",
+        "LATITUDE": "39-07-52.35N",
+        "LONGITUDE": "084-30-58.24W",
+        "CITY": "Cincinnati",
+        "STATE": "OH",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.2643561985173, 42.0909225044993]
+      },
+      "properties": {
+        "OBJECTID": 104,
+        "GLOBAL_ID": "EDE7A8EC-8654-477C-9A6C-59E0F9255321",
+        "NAME": "Gillette Stadium",
+        "LATITUDE": "42-05-27.29N",
+        "LONGITUDE": "071-15-51.68W",
+        "CITY": "Foxboro",
+        "STATE": "MA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-91.1838059332874, 30.4120332537989]
+      },
+      "properties": {
+        "OBJECTID": 105,
+        "GLOBAL_ID": "7FBACFA2-DBB3-4504-B030-BF16D2125621",
+        "NAME": "Tiger Stadium",
+        "LATITUDE": "30-24-43.30N",
+        "LONGITUDE": "091-11-01.68W",
+        "CITY": "Baton Rouge",
+        "STATE": "LA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.719472078406, 35.8007765243568]
+      },
+      "properties": {
+        "OBJECTID": 106,
+        "GLOBAL_ID": "8EA46F18-06DF-4CC0-9F78-A67C138D728A",
+        "NAME": "Carter-Finley Stadium",
+        "LATITUDE": "35-48-02.77N",
+        "LONGITUDE": "078-43-10.09W",
+        "CITY": "Raleigh",
+        "STATE": "NC",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.2822354407493, 33.0365557643726]
+      },
+      "properties": {
+        "OBJECTID": 107,
+        "GLOBAL_ID": "26811BB1-6AD4-4C58-8927-C929E0970483",
+        "NAME": "Texas Motor Speedway",
+        "LATITUDE": "33-02-11.58N",
+        "LONGITUDE": "097-16-56.02W",
+        "CITY": "Fort Worth",
+        "STATE": "TX",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.389704878159, 37.7784021686606]
+      },
+      "properties": {
+        "OBJECTID": 108,
+        "GLOBAL_ID": "27ED65A8-DF97-42B0-ACA1-064E6AF30D36",
+        "NAME": "Oracle Park",
+        "LATITUDE": "37-46-42.23N",
+        "LONGITUDE": "122-23-22.89W",
+        "CITY": "San Francisco",
+        "STATE": "CA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.0191726727364, 33.9730954929704]
+      },
+      "properties": {
+        "OBJECTID": 109,
+        "GLOBAL_ID": "7D58FE0C-83B5-4860-8EAA-34D90CEA5824",
+        "NAME": "Williams Brice Stadium",
+        "LATITUDE": "33-58-23.12N",
+        "LONGITUDE": "081-01-09.01W",
+        "CITY": "Columbia",
+        "STATE": "SC",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.088479674996, 40.5699065249238]
+      },
+      "properties": {
+        "OBJECTID": 110,
+        "GLOBAL_ID": "A18E6B61-CD5D-44A2-BE6B-D1195A8A2308",
+        "NAME": "Canvas Stadium",
+        "LATITUDE": "40-34-11.64N",
+        "LONGITUDE": "105-05-18.49W",
+        "CITY": "Fort Collins",
+        "STATE": "CO",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 111,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.3681076643794, 32.7096556993843]
+      },
+      "properties": {
+        "OBJECTID": 111,
+        "GLOBAL_ID": "9313F1CA-71FF-4260-87F0-1BF860BE2252",
+        "NAME": "Amon G. Carter Stadium",
+        "LATITUDE": "32-42-34.74N",
+        "LONGITUDE": "097-22-05.16W",
+        "CITY": "Fort Worth",
+        "STATE": "TX",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 112,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.0488349703634, 42.3392859542854]
+      },
+      "properties": {
+        "OBJECTID": 112,
+        "GLOBAL_ID": "ACEF4C5B-12EE-4F1C-96B3-A53020748258",
+        "NAME": "Comerica Park",
+        "LATITUDE": "42-20-21.40N",
+        "LONGITUDE": "083-02-55.79W",
+        "CITY": "Detroit",
+        "STATE": "MI",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-92.3300953710018, 34.749856311678]
+      },
+      "properties": {
+        "OBJECTID": 113,
+        "GLOBAL_ID": "F65A8C33-155E-4C60-877F-5D8FE0D8291E",
+        "NAME": "War Memorial Stadium (Arkansas)",
+        "LATITUDE": "34-44-59.46N",
+        "LONGITUDE": "092-19-48.32W",
+        "CITY": "Little Rock",
+        "STATE": "AR",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 114,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.5070604679172, 38.9847578226118]
+      },
+      "properties": {
+        "OBJECTID": 114,
+        "GLOBAL_ID": "7F4C1B26-6BC1-4140-B524-E196DB9E1025",
+        "NAME": "Navy-Marine Corps Memorial Stadium",
+        "LATITUDE": "38-59-05.10N",
+        "LONGITUDE": "076-30-25.41W",
+        "CITY": "Annapolis",
+        "STATE": "MD",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.010311817579, 36.2724886359612]
+      },
+      "properties": {
+        "OBJECTID": 115,
+        "GLOBAL_ID": "D7D5FDC5-78C6-4F87-98F6-71162CEA2F8E",
+        "NAME": "Las Vegas Motor Speedway",
+        "LATITUDE": "36-16-20.94N",
+        "LONGITUDE": "115-00-37.08W",
+        "CITY": "Las Vegas",
+        "STATE": "NV",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.7056081778985, 40.8206265776125]
+      },
+      "properties": {
+        "OBJECTID": 116,
+        "GLOBAL_ID": "C60C7890-9670-41D0-B4CB-DE1AA7DD502F",
+        "NAME": "Memorial Stadium (Nebraska)",
+        "LATITUDE": "40-49-14.23N",
+        "LONGITUDE": "096-42-20.16W",
+        "CITY": "Lincoln",
+        "STATE": "NE",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.5256135161391, 39.1808963184239]
+      },
+      "properties": {
+        "OBJECTID": 117,
+        "GLOBAL_ID": "B7479AE5-54B3-40D5-BEC2-91C905DF5499",
+        "NAME": "Memorial Stadium (Indiana)",
+        "LATITUDE": "39-10-51.20N",
+        "LONGITUDE": "086-31-32.19W",
+        "CITY": "Bloomington",
+        "STATE": "IN",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.2339053187622, 41.6983773425927]
+      },
+      "properties": {
+        "OBJECTID": 118,
+        "GLOBAL_ID": "33DC987D-C0B3-4129-AF74-579A3BCCEC41",
+        "NAME": "Notre Dame Stadium",
+        "LATITUDE": "41-41-54.13N",
+        "LONGITUDE": "086-14-02.04W",
+        "CITY": "Notre Dame",
+        "STATE": "IN",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 119,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.6357658151653, 42.0139964069173]
+      },
+      "properties": {
+        "OBJECTID": 119,
+        "GLOBAL_ID": "FCE1CC31-CC92-404E-A3B8-87F442AB5242",
+        "NAME": "Jack Trice Stadium",
+        "LATITUDE": "42-00-50.36N",
+        "LONGITUDE": "093-38-08.73W",
+        "CITY": "Ames",
+        "STATE": "IA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 120,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.699576148606, 41.5060330916784]
+      },
+      "properties": {
+        "OBJECTID": 120,
+        "GLOBAL_ID": "35F1F2CF-41F7-49D3-BCB4-3143DF255B5A",
+        "NAME": "FirstEnergy Stadium",
+        "LATITUDE": "41-30-21.69N",
+        "LONGITUDE": "081-41-58.46W",
+        "CITY": "Cleveland",
+        "STATE": "OH",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 121,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.6853011433559, 41.4957942014733]
+      },
+      "properties": {
+        "OBJECTID": 121,
+        "GLOBAL_ID": "C227CA26-6125-49DE-9538-B8E383B68769",
+        "NAME": "Progressive Field",
+        "LATITUDE": "41-29-44.83N",
+        "LONGITUDE": "081-41-07.07W",
+        "CITY": "Cleveland",
+        "STATE": "OH",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 122,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.0478916285308, 35.9069459803425]
+      },
+      "properties": {
+        "OBJECTID": 122,
+        "GLOBAL_ID": "D3D480E0-1FD3-426E-8F09-FA969121712A",
+        "NAME": "Kenan Memorial Stadium",
+        "LATITUDE": "35-54-24.98N",
+        "LONGITUDE": "079-02-52.40W",
+        "CITY": "Chapel Hill",
+        "STATE": "NC",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 123,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-101.872925487745, 33.5910889852721]
+      },
+      "properties": {
+        "OBJECTID": 123,
+        "GLOBAL_ID": "F7513EBB-0ACA-436D-AF3C-A0B82535A728",
+        "NAME": "Jones AT&T Stadium",
+        "LATITUDE": "33-35-27.90N",
+        "LONGITUDE": "101-52-22.50W",
+        "CITY": "Lubbock",
+        "STATE": "TX",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 124,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.5051739463052, 38.022746192816]
+      },
+      "properties": {
+        "OBJECTID": 124,
+        "GLOBAL_ID": "04B0E1E7-D02E-4814-B0F3-C9BE2D246462",
+        "NAME": "Kroger Field",
+        "LATITUDE": "38-01-21.86N",
+        "LONGITUDE": "084-30-18.61W",
+        "CITY": "Lexington",
+        "STATE": "KY",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 125,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.500734286213, 34.0885132350701]
+      },
+      "properties": {
+        "OBJECTID": 125,
+        "GLOBAL_ID": "99568BA8-379B-4C37-8B1F-7E8F3EC40B85",
+        "NAME": "Auto Club Speedway",
+        "LATITUDE": "34-05-18.63N",
+        "LONGITUDE": "117-30-02.60W",
+        "CITY": "Fontana",
+        "STATE": "CA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-94.1789459584975, 36.0680953604338]
+      },
+      "properties": {
+        "OBJECTID": 126,
+        "GLOBAL_ID": "4513E433-C381-4779-9DC3-7F3137CB21FD",
+        "NAME": "Donald W. Reynolds Razorback Stadium",
+        "LATITUDE": "36-04-05.12N",
+        "LONGITUDE": "094-10-44.18W",
+        "CITY": "Fayetteville",
+        "STATE": "AR",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 127,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.5160545851872, 39.0954658427436]
+      },
+      "properties": {
+        "OBJECTID": 127,
+        "GLOBAL_ID": "689C23A4-B260-4A66-B210-CA4003B1F3E0",
+        "NAME": "Paycor Stadium",
+        "LATITUDE": "39-05-43.65N",
+        "LONGITUDE": "084-30-57.78W",
+        "CITY": "Cincinnati",
+        "STATE": "OH",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 128,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.9417304901853, 35.9953348919641]
+      },
+      "properties": {
+        "OBJECTID": 128,
+        "GLOBAL_ID": "805EEBB5-5445-4596-8742-AF2CDCD874AA",
+        "NAME": "Wallace Wade Stadium",
+        "LATITUDE": "35-59-43.18N",
+        "LONGITUDE": "078-56-30.22W",
+        "CITY": "Durham",
+        "STATE": "NC",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 129,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.4200912253496, 37.5917463932569]
+      },
+      "properties": {
+        "OBJECTID": 129,
+        "GLOBAL_ID": "FC9164A7-0764-4A37-A3CF-54BD666E19D0",
+        "NAME": "Richmond Raceway",
+        "LATITUDE": "37-35-30.26N",
+        "LONGITUDE": "077-25-12.32W",
+        "CITY": "Richmond",
+        "STATE": "VA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 130,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.2463437105989, 38.9630513656778]
+      },
+      "properties": {
+        "OBJECTID": 130,
+        "GLOBAL_ID": "9564EA07-E1E7-4250-A204-03DF103CA2FC",
+        "NAME": "David Booth Kansas Memorial Stadium",
+        "LATITUDE": "38-57-46.96N",
+        "LONGITUDE": "095-14-46.81W",
+        "CITY": "Lawrence",
+        "STATE": "KS",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3178569414419, 33.3837369144099]
+      },
+      "properties": {
+        "OBJECTID": 131,
+        "GLOBAL_ID": "75806964-84A7-40CF-8F57-9FB852C9CEEC",
+        "NAME": "Atlanta Motor Speedway",
+        "LATITUDE": "33-23-01.43N",
+        "LONGITUDE": "084-19-04.27W",
+        "CITY": "Hampton",
+        "STATE": "GA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.9156018959658, 38.7106907508227]
+      },
+      "properties": {
+        "OBJECTID": 132,
+        "GLOBAL_ID": "12E76DB0-4001-47ED-8683-6AC1DDF16A6A",
+        "NAME": "Kentucky Speedway",
+        "LATITUDE": "38-42-38.46N",
+        "LONGITUDE": "084-54-56.15W",
+        "CITY": "Sparta",
+        "STATE": "KY",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 133,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.9437658716651, 36.1488758404418]
+      },
+      "properties": {
+        "OBJECTID": 133,
+        "GLOBAL_ID": "D2F759EE-E1E3-4FB3-B369-E518AE4BBCF2",
+        "NAME": "Skelly Field at H.A. Chapman Stadium",
+        "LATITUDE": "36-08-55.93N",
+        "LONGITUDE": "095-56-37.53W",
+        "CITY": "Tulsa",
+        "STATE": "OK",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 134,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.6336557461503, 41.8298578451278]
+      },
+      "properties": {
+        "OBJECTID": 134,
+        "GLOBAL_ID": "18EAF107-7F1D-4620-89C7-E0D25E647A9E",
+        "NAME": "Guaranteed Rate Field",
+        "LATITUDE": "41-49-47.46N",
+        "LONGITUDE": "087-38-01.14W",
+        "CITY": "Chicago",
+        "STATE": "IL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 135,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.843487768767, 38.9970646584945]
+      },
+      "properties": {
+        "OBJECTID": 135,
+        "GLOBAL_ID": "DE2CF953-E1DA-4FFD-87B9-6D086FA1027F",
+        "NAME": "Falcon Stadium",
+        "LATITUDE": "38-59-49.41N",
+        "LONGITUDE": "104-50-36.52W",
+        "CITY": "USAFA",
+        "STATE": "CO",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 136,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.2348551487553, 39.7949075573314]
+      },
+      "properties": {
+        "OBJECTID": 136,
+        "GLOBAL_ID": "1CCB187E-87AB-44AC-9236-08AA7C78CEF4",
+        "NAME": "Indianapolis Motor Speedway",
+        "LATITUDE": "39-47-41.64N",
+        "LONGITUDE": "086-14-05.46W",
+        "CITY": "Indianapolis",
+        "STATE": "IN",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 137,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.8089272632756, 36.1440346095047]
+      },
+      "properties": {
+        "OBJECTID": 137,
+        "GLOBAL_ID": "2449DF3E-E588-4504-86CD-4B4D5F81B5FF",
+        "NAME": "Vanderbilt Stadium",
+        "LATITUDE": "36-08-38.50N",
+        "LONGITUDE": "086-48-32.12W",
+        "CITY": "Nashville",
+        "STATE": "TN",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.9255465426215, 29.8910662460834]
+      },
+      "properties": {
+        "OBJECTID": 138,
+        "GLOBAL_ID": "E935027B-3DC7-4693-8F3C-CD9649461096",
+        "NAME": "Jim Wacker Field at Bobcat Stadium",
+        "LATITUDE": "29-53-27.82N",
+        "LONGITUDE": "097-55-31.94W",
+        "CITY": "San Marcos",
+        "STATE": "TX",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 139,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.758793772359, 38.2059072819551]
+      },
+      "properties": {
+        "OBJECTID": 139,
+        "GLOBAL_ID": "50916EE4-EAAE-4C62-A772-6C7FF59E3F91",
+        "NAME": "Cardinal Stadium",
+        "LATITUDE": "38-12-21.24N",
+        "LONGITUDE": "085-45-31.64W",
+        "CITY": "Louisville",
+        "STATE": "KY",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 140,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.7933832132497, 33.4563728704289]
+      },
+      "properties": {
+        "OBJECTID": 140,
+        "GLOBAL_ID": "25B676C5-4451-4B65-97E8-C1D09D6C52C0",
+        "NAME": "Davis Wade Stadium",
+        "LATITUDE": "33-27-22.92N",
+        "LONGITUDE": "088-47-36.16W",
+        "CITY": "Starkville",
+        "STATE": "MS",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 141,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.932538767363, 33.4264134544347]
+      },
+      "properties": {
+        "OBJECTID": 141,
+        "GLOBAL_ID": "70A74187-C115-495D-AC83-B43161583A6F",
+        "NAME": "Sun Devil Stadium",
+        "LATITUDE": "33-25-35.07N",
+        "LONGITUDE": "111-55-57.10W",
+        "CITY": "Tempe",
+        "STATE": "AZ",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.167589961366, 34.1612937613676]
+      },
+      "properties": {
+        "OBJECTID": 142,
+        "GLOBAL_ID": "2D22BAD8-9342-455F-9FD8-9BA191CC34B7",
+        "NAME": "Rose Bowl",
+        "LATITUDE": "34-09-40.64N",
+        "LONGITUDE": "118-10-03.28W",
+        "CITY": "Pasadena",
+        "STATE": "CA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.0664522700864, 36.1256730009946]
+      },
+      "properties": {
+        "OBJECTID": 143,
+        "GLOBAL_ID": "446F812C-DC7F-4A06-B27B-E95E457B4D86",
+        "NAME": "Boone Pickens Stadium",
+        "LATITUDE": "36-07-32.40N",
+        "LONGITUDE": "097-03-59.20W",
+        "CITY": "Stillwater",
+        "STATE": "OK",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 144,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3928542054844, 33.7725064391839]
+      },
+      "properties": {
+        "OBJECTID": 144,
+        "GLOBAL_ID": "F23E798A-1FA2-4F0B-A28D-2088DA3D0528",
+        "NAME": "Bobby Dodd Stadium",
+        "LATITUDE": "33-46-21.00N",
+        "LONGITUDE": "084-23-34.26W",
+        "CITY": "Atlanta",
+        "STATE": "GA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 145,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.467634789403, 33.8906342396326]
+      },
+      "properties": {
+        "OBJECTID": 145,
+        "GLOBAL_ID": "0B153F2E-E8CE-483C-900C-AB8353C7D1F4",
+        "NAME": "Truist Park",
+        "LATITUDE": "33-53-26.26N",
+        "LONGITUDE": "084-28-03.47W",
+        "CITY": "Atlanta",
+        "STATE": "GA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.4209233549861, 38.4249352522797]
+      },
+      "properties": {
+        "OBJECTID": 146,
+        "GLOBAL_ID": "1B70604B-B2F0-4B2C-8FFC-97FE487A235D",
+        "NAME": "Joan C. Edwards Stadium",
+        "LATITUDE": "38-25-29.74N",
+        "LONGITUDE": "082-25-15.31W",
+        "CITY": "Huntington",
+        "STATE": "WV",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.618828842605, 41.7596279513342]
+      },
+      "properties": {
+        "OBJECTID": 147,
+        "GLOBAL_ID": "90DF645E-133F-4F3C-959C-EC11ADEE67C3",
+        "NAME": "Pratt & Whitney Stadium at Rentschler Field",
+        "LATITUDE": "41-45-34.63N",
+        "LONGITUDE": "072-37-07.78W",
+        "CITY": "Hartford",
+        "STATE": "CT",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.8175519161, 39.5469247361765]
+      },
+      "properties": {
+        "OBJECTID": 148,
+        "GLOBAL_ID": "975D91AD-59D7-45EE-8A6F-ED79B75704EE",
+        "NAME": "Mackay Stadium",
+        "LATITUDE": "39-32-48.91N",
+        "LONGITUDE": "119-49-03.14W",
+        "CITY": "Reno",
+        "STATE": "NV",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 149,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.7708245069705, 43.5776277440861]
+      },
+      "properties": {
+        "OBJECTID": 149,
+        "GLOBAL_ID": "7444ACAE-9D77-4CA6-B6A3-A1DE197FCDE5",
+        "NAME": "Kelly/Shorts Stadium",
+        "LATITUDE": "43-34-39.43N",
+        "LONGITUDE": "084-46-14.95W",
+        "CITY": "Mount Pleasant",
+        "STATE": "MI",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 150,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-83.0197236518659, 40.001685528786]
+      },
+      "properties": {
+        "OBJECTID": 150,
+        "GLOBAL_ID": "8CCDB64E-F9CE-44C8-9A2E-32D0CCDE4B31",
+        "NAME": "Ohio Stadium",
+        "LATITUDE": "40-00-06.04N",
+        "LONGITUDE": "083-01-10.99W",
+        "CITY": "Columbus",
+        "STATE": "OH",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 151,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.301573232274, 47.6503056222551]
+      },
+      "properties": {
+        "OBJECTID": 151,
+        "GLOBAL_ID": "001E89FB-8863-4DAA-A124-33F86F1D4FB1",
+        "NAME": "Husky Stadium (Washington)",
+        "LATITUDE": "47-39-01.08N",
+        "LONGITUDE": "122-18-05.61W",
+        "CITY": "Seattle",
+        "STATE": "WA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 152,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.0132989383002, 41.6747380587756]
+      },
+      "properties": {
+        "OBJECTID": 152,
+        "GLOBAL_ID": "265166C6-8A2C-4CFE-82CA-649757305F49",
+        "NAME": "Iowa Speedway",
+        "LATITUDE": "41-40-29.03N",
+        "LONGITUDE": "093-00-47.85W",
+        "CITY": "Newton",
+        "STATE": "IA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 153,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.616702966386, 41.8623634076466]
+      },
+      "properties": {
+        "OBJECTID": 153,
+        "GLOBAL_ID": "74E1506D-C518-44E1-8297-BC773BE8F848",
+        "NAME": "Soldier Field",
+        "LATITUDE": "41-51-44.48N",
+        "LONGITUDE": "087-37-00.11W",
+        "CITY": "Chicago",
+        "STATE": "IL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 154,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.250721534088, 37.8710049644798]
+      },
+      "properties": {
+        "OBJECTID": 154,
+        "GLOBAL_ID": "F69CC845-9E39-48BF-A007-F62D259F95D0",
+        "NAME": "California Memorial Stadium",
+        "LATITUDE": "37-52-15.60N",
+        "LONGITUDE": "122-15-02.55W",
+        "CITY": "Berkeley",
+        "STATE": "CA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.0813195040471, 29.9510581910913]
+      },
+      "properties": {
+        "OBJECTID": 155,
+        "GLOBAL_ID": "AADBA228-DD68-4DF6-82D9-9260E028008B",
+        "NAME": "Caesars Superdome",
+        "LATITUDE": "29-57-03.79N",
+        "LONGITUDE": "090-04-52.73W",
+        "CITY": "New Orleans",
+        "STATE": "LA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 156,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.948805155343, 32.2288883345461]
+      },
+      "properties": {
+        "OBJECTID": 156,
+        "GLOBAL_ID": "303AA4D7-B4F3-4717-A823-4C98968A4286",
+        "NAME": "Arizona Stadium",
+        "LATITUDE": "32-13-43.98N",
+        "LONGITUDE": "110-56-55.66W",
+        "CITY": "Tucson",
+        "STATE": "AZ",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 157,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.9259913813098, 42.3361778987787]
+      },
+      "properties": {
+        "OBJECTID": 157,
+        "GLOBAL_ID": "EE692294-392A-4AC3-8AA5-BB7724073C12",
+        "NAME": "Watkins Glen International",
+        "LATITUDE": "42-20-10.21N",
+        "LONGITUDE": "076-55-33.56W",
+        "CITY": "Watkins Glen",
+        "STATE": "NY",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.7712828099953, 36.1664568376123]
+      },
+      "properties": {
+        "OBJECTID": 158,
+        "GLOBAL_ID": "A54B9201-D762-43DC-B4CE-A3D7769476E9",
+        "NAME": "Nissan Stadium",
+        "LATITUDE": "36-09-59.22N",
+        "LONGITUDE": "086-46-16.60W",
+        "CITY": "Nashville",
+        "STATE": "TN",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.4891933487654, 32.6022033691187]
+      },
+      "properties": {
+        "OBJECTID": 159,
+        "GLOBAL_ID": "5089AC10-B1E7-4D72-B49E-17A0A9F49BB5",
+        "NAME": "Jordan-Hare Stadium",
+        "LATITUDE": "32-36-07.91N",
+        "LONGITUDE": "085-29-21.08W",
+        "CITY": "Auburn",
+        "STATE": "AL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 160,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.4423161839574, 35.2058450414039]
+      },
+      "properties": {
+        "OBJECTID": 160,
+        "GLOBAL_ID": "18AE672C-B5A6-4183-8D19-56E99E80C333",
+        "NAME": "Gaylord Family-Oklahoma Memorial Stadium",
+        "LATITUDE": "35-12-21.02N",
+        "LONGITUDE": "097-26-32.31W",
+        "CITY": "Norman",
+        "STATE": "OK",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 161,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.2359613143451, 40.0993491764519]
+      },
+      "properties": {
+        "OBJECTID": 161,
+        "GLOBAL_ID": "EA9CDE38-5E4D-4B77-ABC0-088D1CF706BB",
+        "NAME": "Memorial Stadium (Illinois)",
+        "LATITUDE": "40-05-57.63N",
+        "LONGITUDE": "088-14-09.44W",
+        "CITY": "Champaign",
+        "STATE": "IL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 162,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.1925919454114, 28.6082553641619]
+      },
+      "properties": {
+        "OBJECTID": 162,
+        "GLOBAL_ID": "0F744A40-0A48-4061-8C54-D82621C1E3A6",
+        "NAME": "FBC Mortgage Stadium",
+        "LATITUDE": "28-36-29.70N",
+        "LONGITUDE": "081-11-33.32W",
+        "CITY": "Orlando",
+        "STATE": "FL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 163,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.8528226886856, 35.2258152137033]
+      },
+      "properties": {
+        "OBJECTID": 163,
+        "GLOBAL_ID": "00467B68-EC55-4A13-B425-F49DD0C160F5",
+        "NAME": "Bank of America Stadium",
+        "LATITUDE": "35-13-32.91N",
+        "LONGITUDE": "080-51-10.15W",
+        "CITY": "Charlotte",
+        "STATE": "NC",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 164,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.287970524511, 34.0140631822829]
+      },
+      "properties": {
+        "OBJECTID": 164,
+        "GLOBAL_ID": "D501E5C1-6CA7-4B92-B403-993FFF985043",
+        "NAME": "United Airlines Field at the Los Angeles Memorial Coliseum",
+        "LATITUDE": "34-00-50.61N",
+        "LONGITUDE": "118-17-16.65W",
+        "CITY": "Los Angeles",
+        "STATE": "CA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.311627726545, 33.3751050947091]
+      },
+      "properties": {
+        "OBJECTID": 165,
+        "GLOBAL_ID": "2602A849-E1EC-4C48-B3E9-7EE854BB7D0C",
+        "NAME": "Phoenix Raceway",
+        "LATITUDE": "33-22-30.36N",
+        "LONGITUDE": "112-18-41.82W",
+        "CITY": "Phoenix",
+        "STATE": "AZ",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 166,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.654500509988, 40.2575337766519]
+      },
+      "properties": {
+        "OBJECTID": 166,
+        "GLOBAL_ID": "56373092-1A37-4FBA-9BBB-E48E57C56346",
+        "NAME": "LaVell Edwards Stadium",
+        "LATITUDE": "40-15-27.10N",
+        "LONGITUDE": "111-39-16.16W",
+        "CITY": "Provo",
+        "STATE": "UT",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 167,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-95.3555458885085, 29.7571829749226]
+      },
+      "properties": {
+        "OBJECTID": 167,
+        "GLOBAL_ID": "9B1BFCE2-F2B9-4635-813C-90A9708EB420",
+        "NAME": "Minute Maid Park",
+        "LATITUDE": "29-45-25.84N",
+        "LONGITUDE": "095-21-19.94W",
+        "CITY": "Houston",
+        "STATE": "TX",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 168,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.071391929927, 29.1851055058482]
+      },
+      "properties": {
+        "OBJECTID": 168,
+        "GLOBAL_ID": "493015CA-EC23-47FC-8114-95E1E583DC4F",
+        "NAME": "Daytona International Speedway",
+        "LATITUDE": "29-11-06.36N",
+        "LONGITUDE": "081-04-17.00W",
+        "CITY": "Daytona Beach",
+        "STATE": "FL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 169,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0074022841986, 38.8730577815631]
+      },
+      "properties": {
+        "OBJECTID": 169,
+        "GLOBAL_ID": "E719B41A-5F1D-4A01-B839-8161DD7F6C45",
+        "NAME": "Nationals Park",
+        "LATITUDE": "38-52-22.98N",
+        "LONGITUDE": "077-00-26.64W",
+        "CITY": "Washington",
+        "STATE": "DC",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 170,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.4652904721799, 40.5135776450799]
+      },
+      "properties": {
+        "OBJECTID": 170,
+        "GLOBAL_ID": "865AD3D4-2202-4441-9C1F-02CF15D64B65",
+        "NAME": "SHI Stadium",
+        "LATITUDE": "40-30-48.85N",
+        "LONGITUDE": "074-27-55.04W",
+        "CITY": "Piscataway",
+        "STATE": "NJ",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 171,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.2245466283326, 44.9765663290056]
+      },
+      "properties": {
+        "OBJECTID": 171,
+        "GLOBAL_ID": "947E3D2A-2AA6-4BE5-8E5F-E267519CD573",
+        "NAME": "Huntington Bank Stadium",
+        "LATITUDE": "44-58-35.61N",
+        "LONGITUDE": "093-13-28.34W",
+        "CITY": "Minneapolis",
+        "STATE": "MN",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 172,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8458902888941, 40.7570471596711]
+      },
+      "properties": {
+        "OBJECTID": 172,
+        "GLOBAL_ID": "128770FE-1070-4575-BB70-5B327C3CCAC4",
+        "NAME": "Citi Field",
+        "LATITUDE": "40-45-25.34N",
+        "LONGITUDE": "073-50-45.20W",
+        "CITY": "Flushing",
+        "STATE": "NY",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 173,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.5136915877073, 38.0311269980167]
+      },
+      "properties": {
+        "OBJECTID": 173,
+        "GLOBAL_ID": "6C41B584-DAF1-4CDF-A85A-575CB9B7B0DD",
+        "NAME": "Scott Stadium",
+        "LATITUDE": "38-01-52.03N",
+        "LONGITUDE": "078-30-49.28W",
+        "CITY": "Charlotttesville",
+        "STATE": "VA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.0756384290291, 30.6730723038052]
+      },
+      "properties": {
+        "OBJECTID": 174,
+        "GLOBAL_ID": "4F156BEA-8AC9-486A-AF47-F27B3F1E9E70",
+        "NAME": "Ladd-Peebles Stadium",
+        "LATITUDE": "30-40-23.04N",
+        "LONGITUDE": "088-04-32.28W",
+        "CITY": "Mobile",
+        "STATE": "AL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.340426734386, 30.6099331123086]
+      },
+      "properties": {
+        "OBJECTID": 175,
+        "GLOBAL_ID": "AE5DB749-8655-4690-857A-18C385D7F75D",
+        "NAME": "Kyle Field",
+        "LATITUDE": "30-36-35.74N",
+        "LONGITUDE": "096-20-25.51W",
+        "CITY": "College Station",
+        "STATE": "TX",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 176,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.6374032482574, 30.3239057588236]
+      },
+      "properties": {
+        "OBJECTID": 176,
+        "GLOBAL_ID": "466E63F3-8C2F-48F5-9016-A6BA604E53A4",
+        "NAME": "TIAA Bank Field",
+        "LATITUDE": "30-19-26.04N",
+        "LONGITUDE": "081-38-14.64W",
+        "CITY": "Jacksonville",
+        "STATE": "FL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 177,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.239962188343, 34.0738826366024]
+      },
+      "properties": {
+        "OBJECTID": 177,
+        "GLOBAL_ID": "2E20BCE7-D68D-46C4-8D5D-A9EF88F4EA60",
+        "NAME": "Dodger Stadium",
+        "LATITUDE": "34-04-25.96N",
+        "LONGITUDE": "118-14-23.82W",
+        "CITY": "Los Angeles",
+        "STATE": "CA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 178,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.0106337589022, 43.0201858022513]
+      },
+      "properties": {
+        "OBJECTID": 178,
+        "GLOBAL_ID": "304B8C81-4B78-4DED-A403-8427CC47C07A",
+        "NAME": "Milwaukee Mile",
+        "LATITUDE": "43-01-12.64N",
+        "LONGITUDE": "088-00-38.26W",
+        "CITY": "West Allis",
+        "STATE": "WI",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 179,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9262403190468, 40.8296360600634]
+      },
+      "properties": {
+        "OBJECTID": 179,
+        "GLOBAL_ID": "05DD4CBF-5A76-4C33-847C-67C120097A32",
+        "NAME": "Yankee Stadium",
+        "LATITUDE": "40-49-46.66N",
+        "LONGITUDE": "073-55-34.46W",
+        "CITY": "Bronx",
+        "STATE": "NY",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 180,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.4010153179225, 33.7552369911857]
+      },
+      "properties": {
+        "OBJECTID": 180,
+        "GLOBAL_ID": "EBB95E7D-0AD8-43F2-A2D0-A40C51B39810",
+        "NAME": "Mercedes-Benz Stadium",
+        "LATITUDE": "33-45-18.83N",
+        "LONGITUDE": "084-24-03.64W",
+        "CITY": "Atlanta",
+        "STATE": "GA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 181,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.26274995039, 33.5276328959537]
+      },
+      "properties": {
+        "OBJECTID": 181,
+        "GLOBAL_ID": "CE159982-408D-47CB-9703-5F50D1B00ACF",
+        "NAME": "State Farm Stadium",
+        "LATITUDE": "33-31-39.46N",
+        "LONGITUDE": "112-15-45.86W",
+        "CITY": "Glendale",
+        "STATE": "AZ",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.332364890096, 47.5914750597875]
+      },
+      "properties": {
+        "OBJECTID": 182,
+        "GLOBAL_ID": "F3A8285A-F03D-4785-A77D-6DE9FDC61BB0",
+        "NAME": "T-Mobile Park",
+        "LATITUDE": "47-35-29.29N",
+        "LONGITUDE": "122-19-56.46W",
+        "CITY": "Seattle",
+        "STATE": "WA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 183,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.8560804547121, 40.8121775738618]
+      },
+      "properties": {
+        "OBJECTID": 183,
+        "GLOBAL_ID": "B2939845-CC36-4162-82F5-8E65651DD807",
+        "NAME": "Beaver Stadium",
+        "LATITUDE": "40-48-43.81N",
+        "LONGITUDE": "077-51-21.88W",
+        "CITY": "University Park",
+        "STATE": "PA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 184,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.3652605451468, 35.5964765271264]
+      },
+      "properties": {
+        "OBJECTID": 184,
+        "GLOBAL_ID": "5B012ECF-9565-4332-B7AA-8B7DA636271B",
+        "NAME": "Dowdy-Ficklen Stadium",
+        "LATITUDE": "35-35-47.29N",
+        "LONGITUDE": "077-21-54.93W",
+        "CITY": "Greenville",
+        "STATE": "NC",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.6924946760679, 42.0654467711399]
+      },
+      "properties": {
+        "OBJECTID": 185,
+        "GLOBAL_ID": "E7319EB0-4C39-46DA-A0F1-DD56669ACB71",
+        "NAME": "Ryan Field",
+        "LATITUDE": "42-03-55.58N",
+        "LONGITUDE": "087-41-32.96W",
+        "CITY": "Evanston",
+        "STATE": "IL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 186,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.179786311353, 32.3296420269632]
+      },
+      "properties": {
+        "OBJECTID": 186,
+        "GLOBAL_ID": "AF7DE6DD-B226-49DB-87E2-885F1D8053AA",
+        "NAME": "Mississippi Veterans Memorial Stadium",
+        "LATITUDE": "32 19 46.69N",
+        "LONGITUDE": "90 10 47.21 W",
+        "CITY": "Jackson",
+        "STATE": "MS",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 187,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.7919567310573, 32.4755835816719]
+      },
+      "properties": {
+        "OBJECTID": 187,
+        "GLOBAL_ID": "51398342-58DB-4D99-9EAB-5475449D6E3F",
+        "NAME": "Independence Stadium",
+        "LATITUDE": "32 28 32.08 N",
+        "LONGITUDE": "93 47 31.02 W",
+        "CITY": "Shreveport",
+        "STATE": "LA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 188,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.9604872594099, 41.3132639656124]
+      },
+      "properties": {
+        "OBJECTID": 188,
+        "GLOBAL_ID": "806FA17A-4133-4EE7-91F9-21FF0041AC14",
+        "NAME": "Yale Bowl, Class of 1954 Field",
+        "LATITUDE": "41 18 47.72 N",
+        "LONGITUDE": "72 57 37.75 W",
+        "CITY": "New Haven",
+        "STATE": "CT",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 189,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.4027447822856, 28.5390497859747]
+      },
+      "properties": {
+        "OBJECTID": 189,
+        "GLOBAL_ID": "155D38C9-ACD2-46AE-A918-16DF98958F5E",
+        "NAME": "Camping World Stadium",
+        "LATITUDE": "28 32 20.56 N",
+        "LONGITUDE": "81 24 09.87 W",
+        "CITY": "Orlando",
+        "STATE": "FL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 190,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.7600075150357, 32.7796057387485]
+      },
+      "properties": {
+        "OBJECTID": 190,
+        "GLOBAL_ID": "94E64EC0-615D-4C8A-975C-C69CE25630DB",
+        "NAME": "Cotton Bowl Stadium",
+        "LATITUDE": "32 46 46.56 N",
+        "LONGITUDE": "96 45 35.50 W",
+        "CITY": "Dallas",
+        "STATE": "TX",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 191,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.126756169405, 42.3667281164773]
+      },
+      "properties": {
+        "OBJECTID": 191,
+        "GLOBAL_ID": "3A12FA3D-2460-4F0F-8174-0EFBBD85F5FF",
+        "NAME": "Harvard Stadium",
+        "LATITUDE": "42 22 00.19 N",
+        "LONGITUDE": "71 07 36.32 W",
+        "CITY": "Boston",
+        "STATE": "MA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 192,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.6294645562353, 27.7651440125371]
+      },
+      "properties": {
+        "OBJECTID": 192,
+        "GLOBAL_ID": "2119C5C8-B355-4264-B851-653BAB6C0D1E",
+        "NAME": "Firestone Grand Prix of St. Petersburg",
+        "LATITUDE": "27-45-54.50N",
+        "LONGITUDE": "82-37-46.06W",
+        "CITY": "Tampa",
+        "STATE": "FL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 193,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.6397770378697, 30.1318551926326]
+      },
+      "properties": {
+        "OBJECTID": 193,
+        "GLOBAL_ID": "8DA1E68F-417C-4CF3-B906-0ED9B666766A",
+        "NAME": "Circuit Of The Americas",
+        "LATITUDE": "30-07-54.66N",
+        "LONGITUDE": "97-38-23.17W",
+        "CITY": "Austin",
+        "STATE": "TX",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 194,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.6196548296488, 33.5326257481906]
+      },
+      "properties": {
+        "OBJECTID": 194,
+        "GLOBAL_ID": "B5562084-D3DE-417F-831C-E55D2496AED1",
+        "NAME": "Barber Motorsports Park",
+        "LATITUDE": "33-31-57.43N",
+        "LONGITUDE": "86-37-10.74W",
+        "CITY": "Birmingham",
+        "STATE": "AL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 195,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.187251043369, 33.762215937962]
+      },
+      "properties": {
+        "OBJECTID": 195,
+        "GLOBAL_ID": "AADE71F1-1C78-4350-B367-359D8917651A",
+        "NAME": "Acura Grand Prix of Long Beach",
+        "LATITUDE": "33-45-43.96N",
+        "LONGITUDE": "118-11-14.06W",
+        "CITY": "Long Beach",
+        "STATE": "CA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 196,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.9987155097587, 42.3371081784069]
+      },
+      "properties": {
+        "OBJECTID": 196,
+        "GLOBAL_ID": "45420CBB-D4BD-4D57-97E1-A0DA6A609115",
+        "NAME": "The Raceway At Belle Ilse Park",
+        "LATITUDE": "42-20-13.56N",
+        "LONGITUDE": "82-59-55.36W",
+        "CITY": "Detroit",
+        "STATE": "MI",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 197,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.9896366169195, 43.7978887086599]
+      },
+      "properties": {
+        "OBJECTID": 197,
+        "GLOBAL_ID": "71525F00-6DCC-4520-8AC6-19F48A7AAA5B",
+        "NAME": "Briggs & Stratton Motorplex ",
+        "LATITUDE": "43-47-52.37N",
+        "LONGITUDE": "87-59-22.67W",
+        "CITY": "Elkhart Lake",
+        "STATE": "WI",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 198,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.6352735901909, 40.6895273412698]
+      },
+      "properties": {
+        "OBJECTID": 198,
+        "GLOBAL_ID": "08676878-D744-4738-BF98-BBD9D535551C",
+        "NAME": "Mid-Ohio Sports Car Course",
+        "LATITUDE": "40 41 22.27N",
+        "LONGITUDE": "82-38-06.97W",
+        "CITY": "Lexington",
+        "STATE": "OH",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 199,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.1369672845955, 38.650446037863]
+      },
+      "properties": {
+        "OBJECTID": 199,
+        "GLOBAL_ID": "802506F8-D42C-4445-A824-140B2FFF0739",
+        "NAME": "World Wide Technology Raceway",
+        "LATITUDE": "38-39-01.58N",
+        "LONGITUDE": "90-08-13.06W",
+        "CITY": "Madison",
+        "STATE": "IL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 200,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.695686722534, 45.5950165782589]
+      },
+      "properties": {
+        "OBJECTID": 200,
+        "GLOBAL_ID": "B019940F-BB93-4FE9-AF9D-D5B623FF0EC4",
+        "NAME": "Portland International Raceway",
+        "LATITUDE": "45-35-42.04N",
+        "LONGITUDE": "122-41-44.42W",
+        "CITY": "Portland",
+        "STATE": "OR",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 201,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.75665187343, 36.5870048894484]
+      },
+      "properties": {
+        "OBJECTID": 201,
+        "GLOBAL_ID": "0C46B198-DA8D-4CAA-B9BA-34BB712F25A8",
+        "NAME": "Weather Tech Raceway Laguna Seca",
+        "LATITUDE": "36-35-13.20N",
+        "LONGITUDE": "121-45-23.90W",
+        "CITY": "Monterey",
+        "STATE": "CA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 202,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-97.0878075959861, 32.7467057184325]
+      },
+      "properties": {
+        "OBJECTID": 202,
+        "GLOBAL_ID": "5774387C-648B-4D44-937F-DF33EDD896DA",
+        "NAME": "Globe Life Field",
+        "LATITUDE": "32 44 48.12 N",
+        "LONGITUDE": "97 05 16.08 W",
+        "CITY": "Arilington",
+        "STATE": "TX",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 203,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.339151084151, 33.9533437286974]
+      },
+      "properties": {
+        "OBJECTID": 203,
+        "GLOBAL_ID": "75F32156-C948-4322-92D9-5B860A255AD3",
+        "NAME": "SoFi Stadium",
+        "LATITUDE": "33 57 12.02 N",
+        "LONGITUDE": "118 20 20.90 W",
+        "CITY": "Inglewood",
+        "STATE": "CA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 204,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.183122942685, 36.0908552708838]
+      },
+      "properties": {
+        "OBJECTID": 204,
+        "GLOBAL_ID": "03D0436A-0299-4481-81BE-1D9AA5B60CD1",
+        "NAME": "Allegiant Stadium",
+        "LATITUDE": "36 05 27.06 N",
+        "LONGITUDE": "115 10 59.20 W",
+        "CITY": "Las Vegas",
+        "STATE": "NV",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 205,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.8092937720676, 33.5277757398873]
+      },
+      "properties": {
+        "OBJECTID": 205,
+        "GLOBAL_ID": "8E63E366-3AF4-4055-88AA-A9DB8E5D16C8",
+        "NAME": "Protective Stadium",
+        "LATITUDE": "33-31-39.97N",
+        "LONGITUDE": "086-48-33.44W",
+        "CITY": "Birmingham",
+        "STATE": "AL",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 206,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.12244245527, 32.7841325489646]
+      },
+      "properties": {
+        "OBJECTID": 206,
+        "GLOBAL_ID": "C0D35562-18DD-4D34-BD56-417F11A8F98A",
+        "NAME": "Snapdragon Stadium",
+        "LATITUDE": "32 47 02.86 N ",
+        "LONGITUDE": "117 07 20.75 W",
+        "CITY": "San Diego",
+        "STATE": "CA",
+        "STATUS_CODE": "Open",
+        "OPENING_ON": null
+      }
+    }
+  ]
+}
