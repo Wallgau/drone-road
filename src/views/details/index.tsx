@@ -1,6 +1,10 @@
 import * as React from 'react';
-import Map, {Source, Layer} from 'react-map-gl';
-import dataList from '../../mockData/data.json'
+import ReactMapGL, {Marker} from 'react-map-gl';
+import dataList from '../../mockData/data.json';
+
+
+
+const Details = () => {
 
 const parkLayer = {
     id: 'landuse_park',
@@ -11,13 +15,6 @@ const parkLayer = {
     paint: {
       'fill-color': '#4E3FC8'
     }
-  };
-
-const geojson = {
-    type: 'FeatureCollection',
-    features: [
-      {type: 'Feature', geometry: {type: 'Point', coordinates: [-122.4, 37.8]}}
-    ]
   };
   
 
@@ -33,24 +30,38 @@ const struturedData = dataList.features.map((data: any) => {
         }
     }
 } )
-
-const Details = () => {
-  const [viewport, setViewport] = React.useState();
+  const [viewport, setViewport] = React.useState({
+    longitude: -80.0061616537235,
+      latitude:  40.4470579700628,
+      zoom: 14,
+      width: '100vw',
+      height: '100vh'
+  });
   return (
-    <Map initialViewState={{
-      longitude: -122.45,
-      latitude: 37.78,
-      zoom: 14
-    }}>{struturedData.map((data: any) => (
-        <div key={`${data.id}-${data.features.geometry.coordinates[0]}`}>
-      <Source id="my-data" type="geojson" data={data}>
-        {/* <Layer {...parkLayer} /> */}
-      </Source>
-        </div>
+    <div>
+    <ReactMapGL 
+    mapboxAccessToken='pk.eyJ1IjoiYXRlbmFzIiwiYSI6ImNsZHpjM3F6NzB6Z3czdWxncWxhdGk3ODYifQ.DzQfvyS5L721FUPDRrLUZw'
+    {...viewport}
+    mapStyle="mapbox://styles/mapbox/streets-v9"
+    // onMouseMove={viewport => {
+    //     setViewport(viewport)
+    // }}}
+    
+>
+    {/* {struturedData.map((data: any) => (
+
+      <Marker
+        key={`${data.id}-${data.features.geometry.coordinates[0]}`}
+        latitude={data.features.geometry.coordinates[1]}
+        longitude={data.features.geometry.coordinates[0]}
+      >
+
+      </Marker>
     ))
 
-    }
-    </Map>
+    } */}
+    </ReactMapGL>
+    </div>
   );
 }
 
