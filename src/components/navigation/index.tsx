@@ -1,24 +1,21 @@
-import React from 'react';
+import React from "react";
 import { Link } from "react-router-dom";
 import { v4 } from "uuid";
-import views from './navigationData.json';
+import views from "./navigationData.json";
 
 //TODO move to types
 interface NavigationProps {
-  currentView: string
+  currentView: string;
 }
 
-const NavigationMenu = ({
-  currentView
-}: NavigationProps) => {
-
+const NavigationMenu = ({ currentView }: NavigationProps) => {
   return (
-      <nav role="navigation" aria-label="Navigation between Airports and Stadiums table data">
+    <nav
+      role="navigation"
+      aria-label="Navigation between Airports and Stadiums table data"
+    >
       <ul>
-        {views?.map((view: {
-            name: string,
-            link: string
-        }) => (
+        {views?.map((view: { name: string; link: string }) => (
           <li key={`${view.name}-${v4()}`}>
             <Link
               className="navigation"

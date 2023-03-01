@@ -1,24 +1,21 @@
-import React from 'react';
-import {
-  createBrowserRouter,
-  RouterProvider,
-} from 'react-router-dom';
-import Airports from './views/airports';
-import Stadiums from './views/stadiums';
+import React from "react";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import Airports from "./views/airports";
+import Stadiums from "./views/stadiums";
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: "/",
     element: <Airports />,
   },
   {
-    path: '/airports',
+    path: "/airports",
     element: <Airports />,
   },
   {
-    path: '/stadiums',
+    path: "/stadiums",
     element: <Stadiums />,
-  }
+  },
 ]);
 
 function App() {
