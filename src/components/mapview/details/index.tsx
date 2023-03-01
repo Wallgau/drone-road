@@ -44,12 +44,11 @@ const Details = () => {
         zoom
       });
   }, [longitude, latitude, zoom]);
- 
   return (
     <div style={{ width: '600px', height: '600px' }}>
       <ReactMapGL
         initialViewState={viewport}
-        mapboxAccessToken='pk.eyJ1IjoiYXRlbmFzIiwiYSI6ImNsZHpjM3F6NzB6Z3czdWxncWxhdGk3ODYifQ.DzQfvyS5L721FUPDRrLUZw'
+        mapboxAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}
         mapStyle='mapbox://styles/mapbox/streets-v12'
         onMove={() => setViewport({
           ...viewport,
