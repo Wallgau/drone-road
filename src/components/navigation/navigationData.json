@@ -1,10 +1,10 @@
 [
   {
-    "name": "Airports",
+    "name": "airports",
     "link": "/airports"
   },
   {
-    "name": "Stadiums",
+    "name": "stadiums",
     "link": "/stadiums"
   }
 ]

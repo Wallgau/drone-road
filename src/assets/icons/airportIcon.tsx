@@ -1,5 +1,8 @@
+import "./icons.style.css";
+
 export const airportIcon = (
   <svg
+    className="airport-icon icon"
     xmlns="http://www.w3.org/2000/svg"
     height="48"
     viewBox="0 96 960 960"

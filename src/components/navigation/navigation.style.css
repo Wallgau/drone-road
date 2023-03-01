@@ -1,0 +1,28 @@
+.navigation-list {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  max-width: 200px;
+}
+
+.navigation-item {
+  padding: 0.2rem 0.4rem;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+
+.navigation-link {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #000;
+}
+
+.navigation-item-choosed,
+.navigation-item:hover {
+  background: #000;
+}
+
+.navigation-item-choosed .navigation-link,
+.navigation-item:hover .navigation-link {
+  color: #fff;
+}

@@ -3,8 +3,9 @@ import Details from "./details";
 import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
 import Modal from "@mui/material/Modal";
+import { Feature } from "../../types/data";
 
-const MapView = () => {
+const MapView = (data: Feature) => {
   const style = {
     position: "absolute" as "absolute",
     top: "50%",
@@ -31,7 +32,7 @@ const MapView = () => {
         aria-describedby="modal-modal-description"
       >
         <Box sx={style}>
-          <Details />
+          <Details {...data} />
         </Box>
       </Modal>
     </div>

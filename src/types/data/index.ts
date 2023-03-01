@@ -11,7 +11,8 @@ export interface Feature {
     NAME: string;
     LATITUDE: string;
     LONGITUDE: string;
-    CITY: string;
+    CITY?: string;
+    COUNTRY?: string;
     STATE: string;
     STATUS_CODE: string;
     OPENING_ON: null;
@@ -19,7 +20,9 @@ export interface Feature {
 }
 
 export interface DataType {
-  type: string;
-  features: Feature[];
+  data: {
+    type: string;
+    features: Feature[];
+  };
   view: string;
 }

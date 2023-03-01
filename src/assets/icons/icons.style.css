@@ -1,0 +1,20 @@
+.icon {
+  height: 30px;
+  width: 30px;
+  padding: 0.18rem;
+  border-radius: 50%;
+}
+
+.airport-icon {
+  background-color: #fff;
+  border: 2px solid #ff0000;
+  fill: #ff0000;
+}
+
+.stadium-icon {
+  background-color: #008000;
+  fill: #fff;
+  padding: 0.18rem;
+  border: 2px solid #fff;
+  border-radius: 50%;
+}

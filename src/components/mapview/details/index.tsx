@@ -9,11 +9,20 @@ import "mapbox-gl/dist/mapbox-gl.css";
 import dataList from "../../../mockData/data.json";
 import { airportIcon } from "../../../assets/icons/airportIcon";
 import { stadiumIcon } from "../../../assets/icons/stadiumIcon";
+import { Feature } from "../../../types/data";
+import { useSelector } from "react-redux";
+import { RootState } from "../../../core/store";
 
-const Details = () => {
-  const [longitude, setLongitude] = useState<number>(-80.0061616537235);
-  const [latitude, setLatitude] = useState<number>(40.4470579700628);
+const Details = (feature: Feature) => {
+  const geo = feature.geometry;
+  const [longitude, setLongitude] = useState<number | undefined>(
+    geo?.coordinates[0]
+  );
+  const [latitude, setLatitude] = useState<number | undefined>(
+    geo?.coordinates[1]
+  );
   const [zoom, setZoom] = useState(15);
+  const view = useSelector((state: RootState) => state.dataReducer.view);
   const mapRef = useRef<MapRef | null>(null);
 
   const [viewport, setViewport] = useState({
@@ -63,13 +72,15 @@ const Details = () => {
         <FullscreenControl />
         <NavigationControl />
         <Marker
-          key={`${dataList.features[0].id}-${dataList.features[0].geometry.coordinates[0]}`}
-          latitude={dataList.features[0].geometry.coordinates[1]}
-          longitude={dataList.features[0].geometry.coordinates[0]}
+          key={`${feature.id}-${geo.coordinates[0]}`}
+          latitude={geo?.coordinates[1]}
+          longitude={geo?.coordinates[0]}
         >
-          {/* {view === 'airports' ?  */}
-          <div>{airportIcon}</div>
-          {/* // : <div>{stadiumIcon}</div>} */}
+          {view === "airports" ? (
+            <div>{airportIcon}</div>
+          ) : (
+            <div>{stadiumIcon}</div>
+          )}
         </Marker>
       </ReactMapGL>
     </div>

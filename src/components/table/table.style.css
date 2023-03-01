@@ -1,0 +1,9 @@
+.table-wrapper {
+  margin: 0 2rem;
+  width: "100%";
+  overflow: "hidden";
+}
+
+.table-wrapper > div {
+  max-height: 600px;
+}

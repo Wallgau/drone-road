@@ -1,13 +1,16 @@
 import { ACTION_TYPES } from "../../constants/data";
 import { DataType } from "../../../types/data";
+import { AnyAction } from "redux";
 
 const initialState = {
-  type: "",
-  features: [],
+  data: {
+    type: "",
+    features: [],
+  },
   view: "",
 };
 
-const dataReducer = (state: DataType = initialState, action: any) => {
+const dataReducer = (state: DataType = initialState, action: AnyAction) => {
   switch (action.type) {
     case ACTION_TYPES.GET_DATA:
       const { data } = action;
