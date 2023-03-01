@@ -30,6 +30,8 @@
     ],
     "rules": {
       "react/react-in-jsx-scope": "off",
+      "import/prefer-default-export": "off",
+      "default-param-last" : "off",
       "eqeqeq": "off",
       "curly": "error"
     }

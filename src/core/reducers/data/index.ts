@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/default-param-last */
+/* eslint-disable no-case-declarations */
 import { AnyAction } from 'redux';
 import { ACTION_TYPES } from '../../constants/data';
 import { DataType } from '../../../types/data';

@@ -1,10 +1,10 @@
 import { useEffect } from 'react';
+import { useSelector } from 'react-redux';
+import { RootState } from '../../core/store';
 import Navigation from '../../components/navigation';
 import { fetchData, getView } from '../../core/actions/data';
 import { useAppDispatch } from '../../core/hooks';
 import TableData from '../../components/table';
-import { useSelector } from 'react-redux';
-import { RootState } from '../../core/store';
 
 const Stadiums = () => {
     const dispatch = useAppDispatch();
