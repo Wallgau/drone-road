@@ -1,12 +1,12 @@
-import { configureStore } from "@reduxjs/toolkit";
-import thunk from "redux-thunk";
-import dataReducer from "../reducers/data";
+import { configureStore } from '@reduxjs/toolkit';
+import thunk from 'redux-thunk';
+import dataReducer from '../reducers/data';
 
 const store = configureStore({
-  reducer: {
-    dataReducer,
-  },
-  middleware: (getDefaultMiddleware) => getDefaultMiddleware().concat(thunk),
+    reducer: {
+        dataReducer
+    },
+    middleware: (getDefaultMiddleware) => getDefaultMiddleware().concat(thunk)
 });
 
 // Infer the `RootState` and `AppDispatch` types from the store itself

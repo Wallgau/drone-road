@@ -23,9 +23,10 @@
       "sourceType": "module",
       "project": "./tsconfig.json"
     },
-    "extends": [ "airbnb-base", "airbnb-typescript"],
+    "extends": [ "airbnb-base", "airbnb-typescript", "plugin:prettier/recommended"],
     "plugins": [
-      "react"
+      "react",
+      "prettier"
     ],
     "rules": {
       "react/react-in-jsx-scope": "off",

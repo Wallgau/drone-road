@@ -1,10 +1,10 @@
 [
-  {
-    "name": "airports",
-    "link": "/airports"
-  },
-  {
-    "name": "stadiums",
-    "link": "/stadiums"
-  }
+    {
+        "name": "airports",
+        "link": "/airports"
+    },
+    {
+        "name": "stadiums",
+        "link": "/stadiums"
+    }
 ]

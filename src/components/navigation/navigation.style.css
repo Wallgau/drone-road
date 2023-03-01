@@ -1,35 +1,35 @@
 .navigation-list {
-  display: flex;
-  justify-content: space-between;
-  list-style: none;
-  max-width: 200px;
-  padding: 0 2rem;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    max-width: 200px;
+    padding: 0 2rem;
 }
 
 .navigation-item {
-  padding: 0.2rem 0.4rem;
-  border: 1px solid #000;
-  border-radius: 5px;
+    padding: 0.2rem 0.4rem;
+    border: 1px solid #000;
+    border-radius: 5px;
 }
 
 .navigation-link {
-  text-decoration: none;
-  text-transform: uppercase;
-  color: #000;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
 }
 
 .navigation-item-choosed,
 .navigation-item:hover {
-  background: #000;
+    background: #000;
 }
 
 .navigation-item-choosed .navigation-link,
 .navigation-item:hover .navigation-link {
-  color: #fff;
+    color: #fff;
 }
 
 @media screen and (max-width: 768px) {
-  .navigation-list {
-    padding: 0 1rem;
-  }
+    .navigation-list {
+        padding: 0 1rem;
+    }
 }
