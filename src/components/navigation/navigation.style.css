@@ -3,6 +3,7 @@
   justify-content: space-between;
   list-style: none;
   max-width: 200px;
+  padding: 0 2rem;
 }
 
 .navigation-item {
@@ -25,4 +26,10 @@
 .navigation-item-choosed .navigation-link,
 .navigation-item:hover .navigation-link {
   color: #fff;
+}
+
+@media screen and (max-width: 768px) {
+  .navigation-list {
+    padding: 0 1rem;
+  }
 }

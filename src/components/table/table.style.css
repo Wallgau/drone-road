@@ -7,3 +7,9 @@
 .table-wrapper > div {
   max-height: 600px;
 }
+
+@media screen and (max-width: 768px) {
+  .table-wrapper {
+    margin: 0;
+  }
+}

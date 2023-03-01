@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## first step: install dependencies
+
+In the project directory, you can run:
+
+### `npm install`
+
+## second step: create .env
+
+In the project directory root create .env and create a variable starting by REACT_APP
+
+### `REACT_APP_MAPBOX_TOKEN="your mapbox token`
+
 ## Available Scripts
 
 In the project directory, you can run:

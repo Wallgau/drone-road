@@ -39,20 +39,41 @@ const TableData = () => {
         <Table className="tabe-data" aria-label="data table" stickyHeader>
           <TableHead className="table-head">
             <TableRow>
-              <TableCell align="left" className="table-head-cell">
+              <TableCell
+                align="left"
+                className="table-head-cell"
+                data-testid="test-header-cell"
+              >
                 NAME
               </TableCell>
               {view === "airports" ? (
-                <TableCell align="left" className="table-head-cell">
+                <TableCell
+                  align="left"
+                  className="table-head-cell"
+                  data-testid="test-header-cell"
+                >
                   COUNTRY
                 </TableCell>
               ) : (
-                <TableCell className="table-head-cell">CITY</TableCell>
+                <TableCell
+                  className="table-head-cell"
+                  data-testid="test-header-cell"
+                >
+                  CITY
+                </TableCell>
               )}
-              <TableCell align="left" className="table-head-cell">
+              <TableCell
+                align="left"
+                className="table-head-cell"
+                data-testid="test-header-cell"
+              >
                 STATE
               </TableCell>
-              <TableCell align="left" className="table-head-cell">
+              <TableCell
+                align="left"
+                className="table-head-cell"
+                data-testid="test-header-cell"
+              >
                 MAP VIEW
               </TableCell>
             </TableRow>
@@ -61,7 +82,10 @@ const TableData = () => {
             {features
               ?.slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage)
               .map((data: Feature) => (
-                <TableRow key={data.properties.GLOBAL_ID}>
+                <TableRow
+                  key={data.properties.GLOBAL_ID}
+                  data-testid="test-body-row"
+                >
                   <TableCell align="left">{data.properties.NAME}</TableCell>
                   <TableCell align="left">
                     {view === "airports"
