@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import MapView from '../mapview';
 
 const Table = () => (
     <table>
@@ -20,7 +20,7 @@ const Table = () => (
                 <td>Centro comercial Moctezuma</td>
                 <td>Francisco Chang</td>
                 <td>
-                    <Link to={'/details'}>Get Details</Link>
+                    <MapView/>
                 </td>
             </tr>
             <tr>

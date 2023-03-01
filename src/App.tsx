@@ -4,7 +4,6 @@ import {
   RouterProvider,
 } from 'react-router-dom';
 import Airports from './views/airports';
-import Details from './views/details';
 import Stadiums from './views/stadiums';
 
 const router = createBrowserRouter([
@@ -19,10 +18,6 @@ const router = createBrowserRouter([
   {
     path: '/stadiums',
     element: <Stadiums />,
-  },
-  {
-    path: '/details',
-    element: <Details />,
   }
 ]);
 
