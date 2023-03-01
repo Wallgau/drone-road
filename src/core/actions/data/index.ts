@@ -25,9 +25,10 @@ export const getView: ActionCreator<ViewSet> = (view: string) => {
 
 
 export const fetchData = (view: string) => async (dispatch: Dispatch) => {
-  const apiCall = view === 'airports' ? getAirportsData : getStadiumsData;
-  const response = await apiCall()
-  dispatch(getAllData(response))
+  const apiCall = view === 'airports' ? getAirportsData() : getStadiumsData();
+  const response = await apiCall;
+  console.log({response})
+  dispatch(getAllData(response.data))
 }
   
   

@@ -1,20 +1,21 @@
 import React, { useEffect, useMemo, useState } from "react";
 import Navigation from '../../components/navigation';
-import { getAirportsData } from "../../services/airports";
+import { fetchData, getView } from '../../core/actions/data';
+import { DataType } from "../../types/data";
+import { useAppDispatch } from '../../core/hooks';
 import Table from "../../components/table";
+import { useSelector } from "react-redux";
 
 const Airports = () => {
-    const [data, setData] = useState(null)
-    console.log({ getAirportsData });
-    const getData = async() => { 
-        const data = await getAirportsData();
-        setData(data.data.features)
-        console.log({data})
-        return data
-    }
+    const dispatch = useAppDispatch();
+    const data = useSelector((state: DataType) => state.features);
+    const [pageData, setData] = useState(data);
+    const [view, setView] = useState('airports');
+ 
 
     useEffect(() => {
-        if(!data) getData();
+        if(!pageData) dispatch(fetchData(view));
+        dispatch(getView(view));
     }, [])
     return (
     <>
