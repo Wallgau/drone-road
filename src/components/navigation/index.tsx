@@ -1,7 +1,6 @@
 import React from 'react';
 import { useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
-import { v4 } from 'uuid';
 import { RootState } from '../../core/store';
 import './navigation.style.css';
 import views from './navigationData.json';
@@ -17,7 +16,7 @@ const NavigationMenu = () => {
             <ul className={'navigation-list'}>
                 {views?.map((eachView: { name: string; link: string }) => (
                     <li
-                        key={`${eachView.name}-${v4()}`}
+                        key={`${eachView.name}`}
                         className={
                             eachView.name === view
                                 ? 'navigation-item navigation-item-choosed'
